@@ -1,0 +1,6842 @@
+[
+  {
+    "id": 1,
+    "location": "l1001",
+    "name": "Aberdeen",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 57.15,
+    "longitude": -2.1
+  },
+  {
+    "id": 2,
+    "location": "l1002",
+    "name": "Aberfeldy",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 56.6181111111111,
+    "longitude": -3.8655
+  },
+  {
+    "id": 3,
+    "location": "l1003",
+    "name": "Achonry",
+    "gaelic_name": "Achadh Conaire",
+    "place_type_id": 8,
+    "latitude": 54.0828055555555,
+    "longitude": -8.66688888888888
+  },
+  {
+    "id": 4,
+    "location": "l1004",
+    "name": "Acqouy",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.8788888888888,
+    "longitude": 5.13611111111111
+  },
+  {
+    "id": 5,
+    "location": "l1005",
+    "name": "Adamstown",
+    "gaelic_name": "Maigh Arnaí",
+    "place_type_id": 4,
+    "latitude": 52.3938888888888,
+    "longitude": -6.71694444444444
+  },
+  {
+    "id": 6,
+    "location": "l1006",
+    "name": "Adare",
+    "gaelic_name": "Áth Dara",
+    "place_type_id": 4,
+    "latitude": 52.5638888888888,
+    "longitude": -8.79
+  },
+  {
+    "id": 7,
+    "location": "l1007",
+    "name": "Affane",
+    "gaelic_name": "Áth Mheáin",
+    "place_type_id": 8,
+    "latitude": 52.1246319444444,
+    "longitude": -7.83776111111111
+  },
+  {
+    "id": 8,
+    "location": "l1008",
+    "name": "Aghmacart",
+    "gaelic_name": "Achadh Mhic Airt",
+    "place_type_id": 8,
+    "latitude": 52.823625,
+    "longitude": -7.50961805555555
+  },
+  {
+    "id": 9,
+    "location": "l1009",
+    "name": "Airth",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 56.0669444444444,
+    "longitude": -3.77611111111111
+  },
+  {
+    "id": 10,
+    "location": "l1010",
+    "name": "Alcacer",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 38.3725,
+    "longitude": -8.51333333333333
+  },
+  {
+    "id": 11,
+    "location": "l1011",
+    "name": "Alcala",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": -19.3652777777777,
+    "longitude": -64.3913888888889
+  },
+  {
+    "id": 12,
+    "location": "l1012",
+    "name": "Aldenham",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.6722222222222,
+    "longitude": -0.354722222222222
+  },
+  {
+    "id": 13,
+    "location": "l1013",
+    "name": "Allenbach",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 49.7555555555555,
+    "longitude": 7.16583333333333
+  },
+  {
+    "id": 14,
+    "location": "l1014",
+    "name": "Alvingham",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.4002777777777,
+    "longitude": 0.0491666666666666
+  },
+  {
+    "id": 15,
+    "location": "l1015",
+    "name": "Amsterdam",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 52.3833333333333,
+    "longitude": 4.9
+  },
+  {
+    "id": 16,
+    "location": "l1016",
+    "name": "Anchieta",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": -20.8055555555555,
+    "longitude": -40.6444444444444
+  },
+  {
+    "id": 17,
+    "location": "l1017",
+    "name": "Annaghmore",
+    "gaelic_name": "Eanach Mór",
+    "place_type_id": 5,
+    "latitude": 53.1917611111111,
+    "longitude": -7.54157694444444
+  },
+  {
+    "id": 18,
+    "location": "l1018",
+    "name": "Annaly",
+    "gaelic_name": "An Anaíle",
+    "place_type_id": 5,
+    "latitude": 53.7390419444444,
+    "longitude": -7.75092888888888
+  },
+  {
+    "id": 19,
+    "location": "l1019",
+    "name": "Antrim",
+    "gaelic_name": "Aontroim",
+    "place_type_id": 4,
+    "latitude": 54.7173055555555,
+    "longitude": -6.2055
+  },
+  {
+    "id": 20,
+    "location": "l1020",
+    "name": "Antwerp",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 51.2211111111111,
+    "longitude": 4.39972222222222
+  },
+  {
+    "id": 21,
+    "location": "l1021",
+    "name": "Ardkyle",
+    "gaelic_name": "Ard Choill",
+    "place_type_id": 4,
+    "latitude": 52.7316569444444,
+    "longitude": -8.82680194444444
+  },
+  {
+    "id": 22,
+    "location": "l1022",
+    "name": "Ardagh",
+    "gaelic_name": "Ardach",
+    "place_type_id": 8,
+    "latitude": 53.6669444444444,
+    "longitude": -7.69333333333333
+  },
+  {
+    "id": 23,
+    "location": "l1023",
+    "name": "Ardbraccan",
+    "gaelic_name": "Ard Breacáin",
+    "place_type_id": 5,
+    "latitude": 53.656855,
+    "longitude": -6.75174694444444
+  },
+  {
+    "id": 24,
+    "location": "l1024",
+    "name": "Ardee",
+    "gaelic_name": "Baile Átha Fhirdhia",
+    "place_type_id": 4,
+    "latitude": 53.8553619444444,
+    "longitude": -6.537895
+  },
+  {
+    "id": 25,
+    "location": "l1025",
+    "name": "Ardfert",
+    "gaelic_name": "Ard Fhearta",
+    "place_type_id": 8,
+    "latitude": 52.35,
+    "longitude": -9.68330555555555
+  },
+  {
+    "id": 26,
+    "location": "l1026",
+    "name": "Ardquin",
+    "gaelic_name": "Ard Choinn",
+    "place_type_id": 5,
+    "latitude": 54.4163911111111,
+    "longitude": -5.55203111111111
+  },
+  {
+    "id": 27,
+    "location": "l1027",
+    "name": "Argyll",
+    "gaelic_name": "EarraGháidheal",
+    "place_type_id": 2,
+    "latitude": 56.25,
+    "longitude": -5.25
+  },
+  {
+    "id": 28,
+    "location": "l1028",
+    "name": "Armagh",
+    "gaelic_name": "Ard Mhacha",
+    "place_type_id": 4,
+    "latitude": 54.3494388888888,
+    "longitude": -6.65443888888888
+  },
+  {
+    "id": 29,
+    "location": "l1029",
+    "name": "Arrow",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 52.2068888888888,
+    "longitude": -1.88419444444444
+  },
+  {
+    "id": 30,
+    "location": "l1030",
+    "name": "Askeaton",
+    "gaelic_name": "Eas Géitine",
+    "place_type_id": 4,
+    "latitude": 52.6001111111111,
+    "longitude": -8.97719444444444
+  },
+  {
+    "id": 31,
+    "location": "l1031",
+    "name": "Asunción",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": -25.3,
+    "longitude": -57.6333333333333
+  },
+  {
+    "id": 32,
+    "location": "l1032",
+    "name": "Athenry",
+    "gaelic_name": "Baile Átha an Rí",
+    "place_type_id": 4,
+    "latitude": 53.2963888888888,
+    "longitude": -8.74311111111111
+  },
+  {
+    "id": 33,
+    "location": "l1033",
+    "name": "Athlone",
+    "gaelic_name": "Baile Átha Luain",
+    "place_type_id": 4,
+    "latitude": 53.4236111111111,
+    "longitude": -7.9425
+  },
+  {
+    "id": 34,
+    "location": "l1034",
+    "name": "Auchencloich",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 55.5098055555555,
+    "longitude": -4.29
+  },
+  {
+    "id": 35,
+    "location": "l1035",
+    "name": "Auchinleck",
+    "gaelic_name": "Achadh nan Leac",
+    "place_type_id": 8,
+    "latitude": 55.4666666666666,
+    "longitude": -4.3
+  },
+  {
+    "id": 36,
+    "location": "l1036",
+    "name": "Aughrim",
+    "gaelic_name": "Eachroim",
+    "place_type_id": 5,
+    "latitude": 53.2949999999999,
+    "longitude": -8.312
+  },
+  {
+    "id": 37,
+    "location": "l1037",
+    "name": "Backweston",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 53.353005,
+    "longitude": -6.48884611111111
+  },
+  {
+    "id": 38,
+    "location": "l1038",
+    "name": "Rossnowlagh",
+    "gaelic_name": "Baile Uí Chléirigh",
+    "place_type_id": 5,
+    "latitude": 54.5547222222222,
+    "longitude": -8.19
+  },
+  {
+    "id": 39,
+    "location": "l1039",
+    "name": "Ballinacor",
+    "gaelic_name": "Baile na Corra",
+    "place_type_id": 5,
+    "latitude": 52.9254730555555,
+    "longitude": -6.32806305555555
+  },
+  {
+    "id": 40,
+    "location": "l1040",
+    "name": "Ballincor",
+    "gaelic_name": "Baile an Churraigh",
+    "place_type_id": 5,
+    "latitude": 53.0225561111111,
+    "longitude": -7.93379
+  },
+  {
+    "id": 41,
+    "location": "l1041",
+    "name": "Ballinrea",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 51.8402611111111,
+    "longitude": -8.41271694444444
+  },
+  {
+    "id": 42,
+    "location": "l1042",
+    "name": "Ballinsperry",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 51.9,
+    "longitude": -8.26666666666666
+  },
+  {
+    "id": 43,
+    "location": "l1043",
+    "name": "Ballintober",
+    "gaelic_name": "Baile an Tobair",
+    "place_type_id": 4,
+    "latitude": 53.7166666666666,
+    "longitude": -8.41666666666666
+  },
+  {
+    "id": 44,
+    "location": "l1044",
+    "name": "Ballintogher",
+    "gaelic_name": "Baile an Tóchair",
+    "place_type_id": 8,
+    "latitude": 54.201,
+    "longitude": -8.365
+  },
+  {
+    "id": 45,
+    "location": "l1045",
+    "name": "Ballybrack",
+    "gaelic_name": "An Baile Breac",
+    "place_type_id": 5,
+    "latitude": 52.58313,
+    "longitude": -6.85866805555555
+  },
+  {
+    "id": 46,
+    "location": "l1046",
+    "name": "Ballycarroll",
+    "gaelic_name": "Baile Uí Chearúill",
+    "place_type_id": 5,
+    "latitude": 52.9087930555555,
+    "longitude": -8.95820805555555
+  },
+  {
+    "id": 47,
+    "location": "l1047",
+    "name": "Ballycogly",
+    "gaelic_name": "Baile Uí Choigligh",
+    "place_type_id": 5,
+    "latitude": 52.2461230555555,
+    "longitude": -6.47914305555555
+  },
+  {
+    "id": 48,
+    "location": "l1048",
+    "name": "Ballyedmond",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.5504819444444,
+    "longitude": -6.33906611111111
+  },
+  {
+    "id": 49,
+    "location": "l1049",
+    "name": "Ballygally",
+    "gaelic_name": "Baile Uí Dhálaigh",
+    "place_type_id": 5,
+    "latitude": 54.4618055555555,
+    "longitude": -7.028
+  },
+  {
+    "id": 50,
+    "location": "l1050",
+    "name": "Ballygibbon",
+    "gaelic_name": null,
+    "place_type_id": 13,
+    "latitude": 52.3602778055555,
+    "longitude": -8.49305561111111
+  },
+  {
+    "id": 51,
+    "location": "l1051",
+    "name": "Ballygrady",
+    "gaelic_name": "Baile an Ghreadaigh ",
+    "place_type_id": 5,
+    "latitude": 52.2258869444444,
+    "longitude": -8.79511888888888
+  },
+  {
+    "id": 52,
+    "location": "l1052",
+    "name": "Ballymacdonnell",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.2065211111111,
+    "longitude": -9.51499388888888
+  },
+  {
+    "id": 53,
+    "location": "l1053",
+    "name": "Ballymacrossan",
+    "gaelic_name": "Baile Mhic Crosáin",
+    "place_type_id": 5,
+    "latitude": 53.1938369444444,
+    "longitude": -7.33404305555555
+  },
+  {
+    "id": 54,
+    "location": "l1054",
+    "name": "Ballymolghan",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.86835,
+    "longitude": -6.68672388888888
+  },
+  {
+    "id": 55,
+    "location": "l1055",
+    "name": "Ballymore",
+    "gaelic_name": "An Baile Mór",
+    "place_type_id": 4,
+    "latitude": 54.6583988888888,
+    "longitude": -8.68539694444444
+  },
+  {
+    "id": 56,
+    "location": "l1056",
+    "name": "Ballymote",
+    "gaelic_name": "Baile an Mhóta",
+    "place_type_id": 8,
+    "latitude": 54.0896111111111,
+    "longitude": -8.51669444444444
+  },
+  {
+    "id": 57,
+    "location": "l1057",
+    "name": "Ballymulconry",
+    "gaelic_name": "Baile Uí Maol Chonaire",
+    "place_type_id": 5,
+    "latitude": 53.7833055555555,
+    "longitude": -8.01
+  },
+  {
+    "id": 58,
+    "location": "l1058",
+    "name": "Ballynacarriga",
+    "gaelic_name": "Baile na Carraige",
+    "place_type_id": 5,
+    "latitude": 51.9647830555555,
+    "longitude": -7.88272888888889
+  },
+  {
+    "id": 59,
+    "location": "l1059",
+    "name": "Ballypierce",
+    "gaelic_name": "Baile Phiarais",
+    "place_type_id": 5,
+    "latitude": 52.6742138888888,
+    "longitude": -6.699255
+  },
+  {
+    "id": 60,
+    "location": "l1060",
+    "name": "Ballysheehan",
+    "gaelic_name": "Baile Uí Shíocháin",
+    "place_type_id": 5,
+    "latitude": 52.5759388888888,
+    "longitude": -7.81330194444444
+  },
+  {
+    "id": 61,
+    "location": "l1061",
+    "name": "Balrath",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 53.7396261111111,
+    "longitude": -7.09542999999999
+  },
+  {
+    "id": 62,
+    "location": "l1062",
+    "name": "Ballyhaise",
+    "gaelic_name": "Béal Átha hÉis",
+    "place_type_id": 8,
+    "latitude": 54.05,
+    "longitude": -7.31666666666666
+  },
+  {
+    "id": 63,
+    "location": "l1063",
+    "name": "Bampton",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 54.5569444444444,
+    "longitude": -2.75111111111111
+  },
+  {
+    "id": 64,
+    "location": "l1064",
+    "name": "Bandon",
+    "gaelic_name": "Droichead na Bandan",
+    "place_type_id": 4,
+    "latitude": 51.7452069444444,
+    "longitude": -8.73593305555555
+  },
+  {
+    "id": 65,
+    "location": "l1065",
+    "name": "Barbados",
+    "gaelic_name": null,
+    "place_type_id": 11,
+    "latitude": 13.17,
+    "longitude": -59.5524999999999
+  },
+  {
+    "id": 66,
+    "location": "l1066",
+    "name": "Bardfield",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.9130555555555,
+    "longitude": 0.448333333333333
+  },
+  {
+    "id": 67,
+    "location": "l1067",
+    "name": "Barford",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.0819444444444,
+    "longitude": -1.92
+  },
+  {
+    "id": 68,
+    "location": "l1068",
+    "name": "Barmeath",
+    "gaelic_name": "Bearna Mheá",
+    "place_type_id": 5,
+    "latitude": 53.8293311111111,
+    "longitude": -6.341855
+  },
+  {
+    "id": 69,
+    "location": "l1069",
+    "name": "Barnard Castle",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 54.55,
+    "longitude": -1.92
+  },
+  {
+    "id": 70,
+    "location": "l1070",
+    "name": "Barracco",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 40.4752777777777,
+    "longitude": -4.64194444444444
+  },
+  {
+    "id": 71,
+    "location": "l1071",
+    "name": "Barrymore",
+    "gaelic_name": "Barraigh Mhóra",
+    "place_type_id": 6,
+    "latitude": 51.9003230555555,
+    "longitude": -8.26182805555555
+  },
+  {
+    "id": 72,
+    "location": "l1072",
+    "name": "Battersea",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.4638888888888,
+    "longitude": -0.167777777777777
+  },
+  {
+    "id": 73,
+    "location": "l1073",
+    "name": "Beauly",
+    "gaelic_name": "A' Mhanachainn",
+    "place_type_id": 4,
+    "latitude": 57.4846944444444,
+    "longitude": -4.462
+  },
+  {
+    "id": 74,
+    "location": "l1074",
+    "name": "Bective",
+    "gaelic_name": "Beigthigh",
+    "place_type_id": 4,
+    "latitude": 53.5797219444444,
+    "longitude": -6.69722194444444
+  },
+  {
+    "id": 75,
+    "location": "l1075",
+    "name": "Belfast",
+    "gaelic_name": "Béal Feirste",
+    "place_type_id": 3,
+    "latitude": 54.5963888888888,
+    "longitude": -5.93
+  },
+  {
+    "id": 76,
+    "location": "l1076",
+    "name": "Belgrade",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 44.8166666666666,
+    "longitude": 20.4666666666666
+  },
+  {
+    "id": 77,
+    "location": "l1077",
+    "name": "Bentworth",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.1563888888888,
+    "longitude": -1.05061111111111
+  },
+  {
+    "id": 78,
+    "location": "l1078",
+    "name": "Bideford",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.0161111111111,
+    "longitude": -4.21722222222222
+  },
+  {
+    "id": 79,
+    "location": "l1079",
+    "name": "Bilbao",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 43.2622222222222,
+    "longitude": -2.95333333333333
+  },
+  {
+    "id": 80,
+    "location": "l1080",
+    "name": "Billy",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 46.2363888888888,
+    "longitude": 3.42916666666666
+  },
+  {
+    "id": 81,
+    "location": "l1081",
+    "name": "Birr",
+    "gaelic_name": "Biorra",
+    "place_type_id": 4,
+    "latitude": 53.0913888888888,
+    "longitude": -7.91330555555555
+  },
+  {
+    "id": 82,
+    "location": "l1082",
+    "name": "Biscay",
+    "gaelic_name": null,
+    "place_type_id": 1,
+    "latitude": 43.25,
+    "longitude": -2.98333333333333
+  },
+  {
+    "id": 83,
+    "location": "l1083",
+    "name": "Bishop Burton",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.845,
+    "longitude": -0.498888888888888
+  },
+  {
+    "id": 84,
+    "location": "l1084",
+    "name": "Blackfriars",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.5125,
+    "longitude": -0.104166666666666
+  },
+  {
+    "id": 85,
+    "location": "l1085",
+    "name": "Blackhall",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 53.1883569444444,
+    "longitude": -6.605585
+  },
+  {
+    "id": 86,
+    "location": "l1086",
+    "name": "Blankney",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.1283861111111,
+    "longitude": -0.405786111111111
+  },
+  {
+    "id": 87,
+    "location": "l1087",
+    "name": "Blarney",
+    "gaelic_name": "An Bhlarna",
+    "place_type_id": 8,
+    "latitude": 51.9330669444444,
+    "longitude": -8.56795194444444
+  },
+  {
+    "id": 88,
+    "location": "l1088",
+    "name": "Bletsoe",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 52.2130555555555,
+    "longitude": -0.505277777777777
+  },
+  {
+    "id": 89,
+    "location": "l1089",
+    "name": "Blois",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 47.5930555555555,
+    "longitude": 1.32722222222222
+  },
+  {
+    "id": 90,
+    "location": "l1090",
+    "name": "Bohemia",
+    "gaelic_name": null,
+    "place_type_id": 1,
+    "latitude": 49.8333333333333,
+    "longitude": 14.3333333333333
+  },
+  {
+    "id": 91,
+    "location": "l1091",
+    "name": "Bologna",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 44.513115,
+    "longitude": 11.4336311111111
+  },
+  {
+    "id": 92,
+    "location": "l1092",
+    "name": "Bonlieu",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 44.5944444444444,
+    "longitude": 4.88138888888888
+  },
+  {
+    "id": 93,
+    "location": "l1093",
+    "name": "Boston",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 42.3583333333333,
+    "longitude": -71.0625
+  },
+  {
+    "id": 94,
+    "location": "l1094",
+    "name": "Boveen",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 53.0131888888888,
+    "longitude": -7.89237194444444
+  },
+  {
+    "id": 95,
+    "location": "l1095",
+    "name": "Bowcombe",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 50.6699999999999,
+    "longitude": -1.35
+  },
+  {
+    "id": 96,
+    "location": "l1096",
+    "name": "Boyle",
+    "gaelic_name": "Mainistir na Búille",
+    "place_type_id": 4,
+    "latitude": 53.9719444444444,
+    "longitude": -8.3
+  },
+  {
+    "id": 97,
+    "location": "l1097",
+    "name": "Breifne",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 54.2,
+    "longitude": -7.81111111111111
+  },
+  {
+    "id": 98,
+    "location": "l1098",
+    "name": "Bremen",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 53.0769444444444,
+    "longitude": 8.80888888888889
+  },
+  {
+    "id": 99,
+    "location": "l1099",
+    "name": "Bridgnorth",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 52.535,
+    "longitude": -2.41944444444444
+  },
+  {
+    "id": 100,
+    "location": "l1100",
+    "name": "Brinny",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.7901730555555,
+    "longitude": -8.70164888888888
+  },
+  {
+    "id": 101,
+    "location": "l1101",
+    "name": "Bristol",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 51.45,
+    "longitude": -2.58333333333333
+  },
+  {
+    "id": 102,
+    "location": "l1102",
+    "name": "Brittas",
+    "gaelic_name": "An Briotás",
+    "place_type_id": 5,
+    "latitude": 53.2362305555555,
+    "longitude": -6.4542
+  },
+  {
+    "id": 103,
+    "location": "l1103",
+    "name": "Britway",
+    "gaelic_name": "Bréachmhaigh",
+    "place_type_id": 5,
+    "latitude": 52.0469299999999,
+    "longitude": -8.17159611111111
+  },
+  {
+    "id": 104,
+    "location": "l1104",
+    "name": "Brooksby",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 52.73,
+    "longitude": -1.0
+  },
+  {
+    "id": 105,
+    "location": "l1105",
+    "name": "Broughton",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 53.1688888888888,
+    "longitude": -2.985
+  },
+  {
+    "id": 106,
+    "location": "l1106",
+    "name": "Bruges",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 51.2088888888888,
+    "longitude": 3.22416666666666
+  },
+  {
+    "id": 107,
+    "location": "l1107",
+    "name": "Brussels",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 50.8466666666666,
+    "longitude": 4.35166666666666
+  },
+  {
+    "id": 108,
+    "location": "l1108",
+    "name": "Buckinghamshire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 51.82802225,
+    "longitude": -0.790425888888888
+  },
+  {
+    "id": 109,
+    "location": "l1109",
+    "name": "Buhy",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 49.1930555555555,
+    "longitude": 1.69111111111111
+  },
+  {
+    "id": 110,
+    "location": "l1110",
+    "name": "Bunratty",
+    "gaelic_name": "Bun na Raite",
+    "place_type_id": 8,
+    "latitude": 52.7,
+    "longitude": -8.81666666666666
+  },
+  {
+    "id": 111,
+    "location": "l1111",
+    "name": "Burford",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.8080555555555,
+    "longitude": -1.63694444444444
+  },
+  {
+    "id": 112,
+    "location": "l1112",
+    "name": "Burrane",
+    "gaelic_name": "Barrán",
+    "place_type_id": 5,
+    "latitude": 51.668465,
+    "longitude": -8.77275611111111
+  },
+  {
+    "id": 113,
+    "location": "l1113",
+    "name": "Buttevant",
+    "gaelic_name": "Cill na Mallach",
+    "place_type_id": 4,
+    "latitude": 52.233,
+    "longitude": -8.667
+  },
+  {
+    "id": 114,
+    "location": "l1114",
+    "name": "Cadeby",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 52.6175,
+    "longitude": -1.37333333333333
+  },
+  {
+    "id": 115,
+    "location": "l1115",
+    "name": "Cahir",
+    "gaelic_name": "An Chathair",
+    "place_type_id": 4,
+    "latitude": 52.375,
+    "longitude": -7.925
+  },
+  {
+    "id": 116,
+    "location": "l1116",
+    "name": "Calais",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 50.9475,
+    "longitude": 1.85555555555555
+  },
+  {
+    "id": 117,
+    "location": "l1117",
+    "name": "Calder",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 54.41,
+    "longitude": -3.49
+  },
+  {
+    "id": 118,
+    "location": "l1118",
+    "name": "Caldermuir",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 55.8832811111111,
+    "longitude": -3.48013805555555
+  },
+  {
+    "id": 119,
+    "location": "l1119",
+    "name": "Callan",
+    "gaelic_name": "Callainn",
+    "place_type_id": 4,
+    "latitude": 52.55,
+    "longitude": -7.38333305555555
+  },
+  {
+    "id": 120,
+    "location": "l1120",
+    "name": "Camberwell",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.4736111111111,
+    "longitude": -0.0911111111111111
+  },
+  {
+    "id": 121,
+    "location": "l1121",
+    "name": "Cambridge",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 52.2080555555555,
+    "longitude": 0.1225
+  },
+  {
+    "id": 122,
+    "location": "l1122",
+    "name": "Camus",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.348545,
+    "longitude": -9.54379694444444
+  },
+  {
+    "id": 123,
+    "location": "l1123",
+    "name": "Canino",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 42.465,
+    "longitude": 11.7519444444444
+  },
+  {
+    "id": 124,
+    "location": "l1124",
+    "name": "Cappervarget",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.221,
+    "longitude": -6.9935
+  },
+  {
+    "id": 125,
+    "location": "l1125",
+    "name": "Carbury",
+    "gaelic_name": "Cairbre",
+    "place_type_id": 6,
+    "latitude": 54.0828055555555,
+    "longitude": -8.66688888888888
+  },
+  {
+    "id": 126,
+    "location": "l1126",
+    "name": "Carbery",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.5655555555555,
+    "longitude": -9.67444444444444
+  },
+  {
+    "id": 127,
+    "location": "l1127",
+    "name": "Cardiff",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 51.48,
+    "longitude": -3.17999999999999
+  },
+  {
+    "id": 128,
+    "location": "l1128",
+    "name": "Cardiganshire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 52.2527777777777,
+    "longitude": -4.00027777777777
+  },
+  {
+    "id": 129,
+    "location": "l1129",
+    "name": "Carlow",
+    "gaelic_name": "Ceatharlach",
+    "place_type_id": 4,
+    "latitude": 52.8306111111111,
+    "longitude": -6.93169444444444
+  },
+  {
+    "id": 130,
+    "location": "l1130",
+    "name": "Carmarthen Castle",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.8569444444444,
+    "longitude": -4.31638888888888
+  },
+  {
+    "id": 131,
+    "location": "l1131",
+    "name": "Carnew Castle",
+    "gaelic_name": "Carn an Bhua",
+    "place_type_id": 8,
+    "latitude": 52.7097219444444,
+    "longitude": -6.49583305555555
+  },
+  {
+    "id": 132,
+    "location": "l1132",
+    "name": "Carrick-on-Suir",
+    "gaelic_name": "Carraig na Siúire",
+    "place_type_id": 4,
+    "latitude": 52.3465088888888,
+    "longitude": -7.411995
+  },
+  {
+    "id": 133,
+    "location": "l1133",
+    "name": "Carrickbeg",
+    "gaelic_name": "An Charraig Bheag",
+    "place_type_id": 4,
+    "latitude": 52.35,
+    "longitude": -7.41666666666666
+  },
+  {
+    "id": 134,
+    "location": "l1134",
+    "name": "Carrickfergus",
+    "gaelic_name": "Carraig Fhearghais",
+    "place_type_id": 4,
+    "latitude": 54.7161111111111,
+    "longitude": -5.80888888888888
+  },
+  {
+    "id": 135,
+    "location": "l1135",
+    "name": "Carrigadrohid",
+    "gaelic_name": "Carraig an Droichid",
+    "place_type_id": 8,
+    "latitude": 51.9,
+    "longitude": -8.85
+  },
+  {
+    "id": 136,
+    "location": "l1136",
+    "name": "Carrigaline",
+    "gaelic_name": "Carraig Uí Leighin",
+    "place_type_id": 8,
+    "latitude": 51.8141944444444,
+    "longitude": -8.3925
+  },
+  {
+    "id": 137,
+    "location": "l1137",
+    "name": "Carrigleamleary",
+    "gaelic_name": null,
+    "place_type_id": 13,
+    "latitude": 52.131,
+    "longitude": -8.64149999999999
+  },
+  {
+    "id": 138,
+    "location": "l1138",
+    "name": "Carrignacurra",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 51.8405680555555,
+    "longitude": -9.10786111111111
+  },
+  {
+    "id": 139,
+    "location": "l1139",
+    "name": "Carrignamuck",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 51.9305555555555,
+    "longitude": -8.76916666666666
+  },
+  {
+    "id": 140,
+    "location": "l1140",
+    "name": "Carrignedy",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.1420219444444,
+    "longitude": -8.27613805555555
+  },
+  {
+    "id": 141,
+    "location": "l1141",
+    "name": "Carrington",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.0803055555555,
+    "longitude": -0.0446944444444444
+  },
+  {
+    "id": 142,
+    "location": "l1142",
+    "name": "Carton",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 53.39,
+    "longitude": -6.566
+  },
+  {
+    "id": 143,
+    "location": "l1143",
+    "name": "Cashel",
+    "gaelic_name": "Caiseal",
+    "place_type_id": 4,
+    "latitude": 52.5167169444444,
+    "longitude": -7.88942805555555
+  },
+  {
+    "id": 144,
+    "location": "l1144",
+    "name": "Castle Drum",
+    "gaelic_name": "Caisleán na Dromann",
+    "place_type_id": 5,
+    "latitude": 52.1701919444444,
+    "longitude": -9.75860805555555
+  },
+  {
+    "id": 145,
+    "location": "l1145",
+    "name": "Castle Lyon",
+    "gaelic_name": "Caisleán Ó Liatháin",
+    "place_type_id": 8,
+    "latitude": 52.0891666666666,
+    "longitude": -8.23416666666666
+  },
+  {
+    "id": 146,
+    "location": "l1146",
+    "name": "Castlehaven",
+    "gaelic_name": "Gleann Bearcháin",
+    "place_type_id": 5,
+    "latitude": 51.5356580555555,
+    "longitude": -9.19830305555555
+  },
+  {
+    "id": 147,
+    "location": "l1147",
+    "name": "Castleisland",
+    "gaelic_name": "Oileán Ciarraí",
+    "place_type_id": 5,
+    "latitude": 52.2306944444444,
+    "longitude": -9.46469444444444
+  },
+  {
+    "id": 148,
+    "location": "l1148",
+    "name": "Castleknock",
+    "gaelic_name": "Caisleán Cnucha",
+    "place_type_id": 4,
+    "latitude": 53.3751944444444,
+    "longitude": -6.35569444444444
+  },
+  {
+    "id": 149,
+    "location": "l1149",
+    "name": "Castle Mahony",
+    "gaelic_name": "Castle Mahony",
+    "place_type_id": 13,
+    "latitude": 51.7091430555555,
+    "longitude": -8.83067388888888
+  },
+  {
+    "id": 150,
+    "location": "l1150",
+    "name": "Castlemartin",
+    "gaelic_name": "Caisleán Mháirtín",
+    "place_type_id": 5,
+    "latitude": 53.135745,
+    "longitude": -6.75568611111111
+  },
+  {
+    "id": 151,
+    "location": "l1151",
+    "name": "Castleroe",
+    "gaelic_name": "Caisleán an Róigh",
+    "place_type_id": 5,
+    "latitude": 52.9172088888888,
+    "longitude": -6.90041305555555
+  },
+  {
+    "id": 152,
+    "location": "l1152",
+    "name": "Castletara",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 54.0258419444444,
+    "longitude": -7.28727111111111
+  },
+  {
+    "id": 153,
+    "location": "l1153",
+    "name": "Celbridge",
+    "gaelic_name": "Cill Droichid",
+    "place_type_id": 4,
+    "latitude": 53.3326111111111,
+    "longitude": -6.535
+  },
+  {
+    "id": 154,
+    "location": "l1154",
+    "name": "Castletown",
+    "gaelic_name": "Baile an Chaisleáin",
+    "place_type_id": 5,
+    "latitude": 52.8814361111111,
+    "longitude": -8.36168111111111
+  },
+  {
+    "id": 155,
+    "location": "l1155",
+    "name": "Cavan",
+    "gaelic_name": "An Cabhán",
+    "place_type_id": 4,
+    "latitude": 53.9910188888888,
+    "longitude": -7.36006694444444
+  },
+  {
+    "id": 156,
+    "location": "l1156",
+    "name": "Ceapach",
+    "gaelic_name": "Ceapach Choinn",
+    "place_type_id": 5,
+    "latitude": 52.15,
+    "longitude": -7.95
+  },
+  {
+    "id": 157,
+    "location": "l1157",
+    "name": "Charleville",
+    "gaelic_name": "An Ráth",
+    "place_type_id": 4,
+    "latitude": 52.3567319444444,
+    "longitude": -8.684435
+  },
+  {
+    "id": 158,
+    "location": "l1158",
+    "name": "Cheapside",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.4180555555555,
+    "longitude": -0.645
+  },
+  {
+    "id": 159,
+    "location": "l1159",
+    "name": "Cheb",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 50.0797222222222,
+    "longitude": 12.3733333333333
+  },
+  {
+    "id": 160,
+    "location": "l1160",
+    "name": "Cheshire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 53.2329744388888,
+    "longitude": -2.5073911
+  },
+  {
+    "id": 161,
+    "location": "l1161",
+    "name": "Chester",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 53.2,
+    "longitude": -2.88333333333333
+  },
+  {
+    "id": 162,
+    "location": "l1162",
+    "name": "Chislehurst",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.415,
+    "longitude": 0.0788888888888888
+  },
+  {
+    "id": 163,
+    "location": "l1163",
+    "name": "Kilmartin",
+    "gaelic_name": "Cill Mhártain",
+    "place_type_id": 5,
+    "latitude": 56.1336111111111,
+    "longitude": -5.48688888888888
+  },
+  {
+    "id": 164,
+    "location": "l1164",
+    "name": "Clandeboye",
+    "gaelic_name": "Clann Aodha Buí",
+    "place_type_id": 5,
+    "latitude": 54.6419444444444,
+    "longitude": -5.71694444444444
+  },
+  {
+    "id": 165,
+    "location": "l1165",
+    "name": "Clandonnell Roe",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 51.7080338888888,
+    "longitude": -9.42448805555555
+  },
+  {
+    "id": 166,
+    "location": "l1166",
+    "name": "Killavullen",
+    "gaelic_name": "Cill an Mhuilinn",
+    "place_type_id": 8,
+    "latitude": 52.15,
+    "longitude": -8.51666666666666
+  },
+  {
+    "id": 167,
+    "location": "l1167",
+    "name": "Clanmaurice",
+    "gaelic_name": null,
+    "place_type_id": 6,
+    "latitude": 52.4161111111111,
+    "longitude": -9.38999999999999
+  },
+  {
+    "id": 168,
+    "location": "l1168",
+    "name": "Clare",
+    "gaelic_name": "An Chláir",
+    "place_type_id": 2,
+    "latitude": 52.8333333333333,
+    "longitude": -9.0
+  },
+  {
+    "id": 169,
+    "location": "l1169",
+    "name": "Clenagh",
+    "gaelic_name": "An Chlaonach",
+    "place_type_id": 5,
+    "latitude": 52.7266561111111,
+    "longitude": -8.94044388888889
+  },
+  {
+    "id": 170,
+    "location": "l1170",
+    "name": "Clogh Icully",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.5397080555555,
+    "longitude": -8.90268694444444
+  },
+  {
+    "id": 171,
+    "location": "l1171",
+    "name": "Cloghan",
+    "gaelic_name": "An Clochán",
+    "place_type_id": 5,
+    "latitude": 53.13,
+    "longitude": -7.53
+  },
+  {
+    "id": 172,
+    "location": "l1172",
+    "name": "Clogher",
+    "gaelic_name": "Clochar",
+    "place_type_id": 8,
+    "latitude": 54.4166944444444,
+    "longitude": -7.2
+  },
+  {
+    "id": 173,
+    "location": "l1173",
+    "name": "Cloghey",
+    "gaelic_name": null,
+    "place_type_id": 13,
+    "latitude": 52.1450569444444,
+    "longitude": -8.148385
+  },
+  {
+    "id": 174,
+    "location": "l1174",
+    "name": "Cloghgrennan",
+    "gaelic_name": "Cloch Ghrianáin",
+    "place_type_id": 5,
+    "latitude": 52.803435,
+    "longitude": -7.002305
+  },
+  {
+    "id": 175,
+    "location": "l1175",
+    "name": "Cloghogenall",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 54.3117880555555,
+    "longitude": -7.54962111111111
+  },
+  {
+    "id": 176,
+    "location": "l1176",
+    "name": "Clonagh",
+    "gaelic_name": "Cluain Each",
+    "place_type_id": 5,
+    "latitude": 52.5138019444444,
+    "longitude": -9.00426111111111
+  },
+  {
+    "id": 177,
+    "location": "l1177",
+    "name": "Clonderlaw",
+    "gaelic_name": "Cluain idir Dhá Lá",
+    "place_type_id": 6,
+    "latitude": 52.75,
+    "longitude": -9.03333333333333
+  },
+  {
+    "id": 178,
+    "location": "l1178",
+    "name": "Clonegeraghie",
+    "gaelic_name": "Cluain Raithní",
+    "place_type_id": 5,
+    "latitude": 52.72876,
+    "longitude": -6.17167305555555
+  },
+  {
+    "id": 179,
+    "location": "l1179",
+    "name": "Clonkeen",
+    "gaelic_name": "Cluain Caoin",
+    "place_type_id": 5,
+    "latitude": 53.8982861111111,
+    "longitude": -6.639345
+  },
+  {
+    "id": 180,
+    "location": "l1180",
+    "name": "Clonmel",
+    "gaelic_name": "Cluain Meala",
+    "place_type_id": 4,
+    "latitude": 52.3538888888888,
+    "longitude": -7.71161111111111
+  },
+  {
+    "id": 181,
+    "location": "l1181",
+    "name": "Clonodfoy",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.3602778055555,
+    "longitude": -8.49305561111111
+  },
+  {
+    "id": 182,
+    "location": "l1182",
+    "name": "Clontibret",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 54.1706369444444,
+    "longitude": -7.2245
+  },
+  {
+    "id": 183,
+    "location": "l1183",
+    "name": "Cloonagh",
+    "gaelic_name": "Cluanach",
+    "place_type_id": 5,
+    "latitude": 53.4221411111111,
+    "longitude": -7.43906194444444
+  },
+  {
+    "id": 184,
+    "location": "l1184",
+    "name": "Cloonamaher",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 54.1810288888888,
+    "longitude": -8.49051499999999
+  },
+  {
+    "id": 185,
+    "location": "l1185",
+    "name": "Cloughoughter Castle",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 54.0122611111111,
+    "longitude": -7.4665
+  },
+  {
+    "id": 186,
+    "location": "l1186",
+    "name": "Cloyne",
+    "gaelic_name": "Cluain",
+    "place_type_id": 4,
+    "latitude": 51.8631944444444,
+    "longitude": -8.12088888888888
+  },
+  {
+    "id": 187,
+    "location": "l1187",
+    "name": "Knockfune",
+    "gaelic_name": "An Cnoc Fionn",
+    "place_type_id": 5,
+    "latitude": 52.7249911111111,
+    "longitude": -8.26039805555555
+  },
+  {
+    "id": 188,
+    "location": "l1188",
+    "name": "Cockington",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 50.4633333333333,
+    "longitude": -3.55638888888888
+  },
+  {
+    "id": 189,
+    "location": "l1189",
+    "name": "Coleraine",
+    "gaelic_name": "Cúil Raithin",
+    "place_type_id": 4,
+    "latitude": 55.1330555555555,
+    "longitude": -6.66111111111111
+  },
+  {
+    "id": 190,
+    "location": "l1190",
+    "name": "Collacombe",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 50.5667,
+    "longitude": -4.21704
+  },
+  {
+    "id": 191,
+    "location": "l1191",
+    "name": "Cologne",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 50.9422222222222,
+    "longitude": 6.95777777777777
+  },
+  {
+    "id": 192,
+    "location": "l1192",
+    "name": "Colombes",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 48.9236111111111,
+    "longitude": 2.25222222222222
+  },
+  {
+    "id": 193,
+    "location": "l1193",
+    "name": "Colonsay",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 56.0666666666666,
+    "longitude": -6.21666666666666
+  },
+  {
+    "id": 194,
+    "location": "l1194",
+    "name": "Compostela",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 42.8833333333333,
+    "longitude": -8.53333333333333
+  },
+  {
+    "id": 195,
+    "location": "l1195",
+    "name": "Constantinople",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 41.01,
+    "longitude": 28.9602777777777
+  },
+  {
+    "id": 196,
+    "location": "l1196",
+    "name": "Coolavin",
+    "gaelic_name": "Cúil Ó bhFinn",
+    "place_type_id": 6,
+    "latitude": 53.9559588888888,
+    "longitude": -8.48962499999999
+  },
+  {
+    "id": 197,
+    "location": "l1197",
+    "name": "Coolnamuck",
+    "gaelic_name": "Chúil na Muice",
+    "place_type_id": 5,
+    "latitude": 52.3468088888888,
+    "longitude": -7.45785194444444
+  },
+  {
+    "id": 198,
+    "location": "l1198",
+    "name": "Corcomroe",
+    "gaelic_name": "Corca Mrua",
+    "place_type_id": 5,
+    "latitude": 52.9833333333333,
+    "longitude": -9.25
+  },
+  {
+    "id": 199,
+    "location": "l1199",
+    "name": "Corduff",
+    "gaelic_name": "An Chorr Dhubh",
+    "place_type_id": 5,
+    "latitude": 53.5115369444444,
+    "longitude": -6.18731
+  },
+  {
+    "id": 200,
+    "location": "l1200",
+    "name": "Coreen",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 54.2433055555555,
+    "longitude": -8.73111111111111
+  },
+  {
+    "id": 201,
+    "location": "l1201",
+    "name": "Corgrig",
+    "gaelic_name": "An Chorrghráig",
+    "place_type_id": 5,
+    "latitude": 52.6044969444444,
+    "longitude": -9.0993
+  },
+  {
+    "id": 202,
+    "location": "l1202",
+    "name": "Cork",
+    "gaelic_name": "Corcaigh",
+    "place_type_id": 3,
+    "latitude": 51.9,
+    "longitude": -8.47305555555555
+  },
+  {
+    "id": 203,
+    "location": "l1203",
+    "name": "Cornwall",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 50.3,
+    "longitude": -4.9
+  },
+  {
+    "id": 204,
+    "location": "l1204",
+    "name": "Cornworthy",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 50.3885,
+    "longitude": -3.65080555555555
+  },
+  {
+    "id": 205,
+    "location": "l1205",
+    "name": "Coruna",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 43.3666666666666,
+    "longitude": -8.38333333333333
+  },
+  {
+    "id": 206,
+    "location": "l1206",
+    "name": "Cottenham",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 52.2863888888888,
+    "longitude": 0.124444444444444
+  },
+  {
+    "id": 207,
+    "location": "l1207",
+    "name": "Courtstown",
+    "gaelic_name": "Baile na Cúirte",
+    "place_type_id": 5,
+    "latitude": 52.6472930555555,
+    "longitude": -7.46018611111111
+  },
+  {
+    "id": 208,
+    "location": "l1208",
+    "name": "Couvin",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 50.0519444444444,
+    "longitude": 4.49611111111111
+  },
+  {
+    "id": 209,
+    "location": "l1209",
+    "name": "Coverham",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 54.2721944444444,
+    "longitude": -1.84111111111111
+  },
+  {
+    "id": 210,
+    "location": "l1210",
+    "name": "Crabtreebeck",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 54.581785,
+    "longitude": -3.346805
+  },
+  {
+    "id": 211,
+    "location": "l1211",
+    "name": "Crediton",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 50.7925,
+    "longitude": -3.65138888888888
+  },
+  {
+    "id": 212,
+    "location": "l1212",
+    "name": "Crest",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 44.7283333333333,
+    "longitude": 5.02222222222222
+  },
+  {
+    "id": 213,
+    "location": "l1213",
+    "name": "Crickstown",
+    "gaelic_name": "Baile an Chricigh",
+    "place_type_id": 5,
+    "latitude": 53.5340980555555,
+    "longitude": -6.43732888888888
+  },
+  {
+    "id": 214,
+    "location": "l1214",
+    "name": "Croydon",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.3727777777777,
+    "longitude": -0.11
+  },
+  {
+    "id": 215,
+    "location": "l1215",
+    "name": "Culmore",
+    "gaelic_name": "An Chúil Mhór",
+    "place_type_id": 8,
+    "latitude": 55.05,
+    "longitude": -7.27
+  },
+  {
+    "id": 216,
+    "location": "l1216",
+    "name": "Cumberland",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 54.75,
+    "longitude": -3.0
+  },
+  {
+    "id": 217,
+    "location": "l1217",
+    "name": "Curraghmore",
+    "gaelic_name": "An Currach Mór",
+    "place_type_id": 5,
+    "latitude": 52.2947680555555,
+    "longitude": -7.36280388888888
+  },
+  {
+    "id": 218,
+    "location": "l1218",
+    "name": "Currans",
+    "gaelic_name": "Na Coirríní",
+    "place_type_id": 5,
+    "latitude": 52.196,
+    "longitude": -9.547
+  },
+  {
+    "id": 219,
+    "location": "l1219",
+    "name": "Cushington",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 53.4323011111111,
+    "longitude": -6.50098111111111
+  },
+  {
+    "id": 220,
+    "location": "l1220",
+    "name": "Cuzco",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": -13.5183305555555,
+    "longitude": -71.9780611111111
+  },
+  {
+    "id": 221,
+    "location": "l1221",
+    "name": "Danzig",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 54.3666666666666,
+    "longitude": 18.6333333333333
+  },
+  {
+    "id": 222,
+    "location": "l1222",
+    "name": "Dartmouth",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 50.3502777777777,
+    "longitude": -3.57861111111111
+  },
+  {
+    "id": 223,
+    "location": "l1223",
+    "name": "Dauntsey",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.5358333333333,
+    "longitude": -2.01083333333333
+  },
+  {
+    "id": 224,
+    "location": "l1224",
+    "name": "Daventry",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 52.26,
+    "longitude": -1.16
+  },
+  {
+    "id": 225,
+    "location": "l1225",
+    "name": "Deerhurst",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.96,
+    "longitude": -2.19
+  },
+  {
+    "id": 226,
+    "location": "l1226",
+    "name": "Derby",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 52.9166666666666,
+    "longitude": -1.46666666666666
+  },
+  {
+    "id": 227,
+    "location": "l1227",
+    "name": "Derbyshire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 53.1,
+    "longitude": -1.6
+  },
+  {
+    "id": 228,
+    "location": "l1228",
+    "name": "Derry",
+    "gaelic_name": "Doire",
+    "place_type_id": 3,
+    "latitude": 54.9916666666666,
+    "longitude": -7.34166666666666
+  },
+  {
+    "id": 229,
+    "location": "l1229",
+    "name": "Derryclowny",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.4355680555555,
+    "longitude": -7.96508305555555
+  },
+  {
+    "id": 230,
+    "location": "l1230",
+    "name": "Desmond",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 52.0588055555555,
+    "longitude": -9.50719444444444
+  },
+  {
+    "id": 231,
+    "location": "l1231",
+    "name": "Devon",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 50.7,
+    "longitude": -3.8
+  },
+  {
+    "id": 232,
+    "location": "l1232",
+    "name": "Dilingen",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 48.5666666666666,
+    "longitude": 10.4666666666666
+  },
+  {
+    "id": 233,
+    "location": "l1233",
+    "name": "Dingle",
+    "gaelic_name": "Daingean Uí Chúis",
+    "place_type_id": 4,
+    "latitude": 52.139915,
+    "longitude": -10.27153
+  },
+  {
+    "id": 234,
+    "location": "l1234",
+    "name": "Dinton",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.0826111111111,
+    "longitude": -1.98538888888888
+  },
+  {
+    "id": 235,
+    "location": "l1235",
+    "name": "Donabate",
+    "gaelic_name": "Domhnach Bat",
+    "place_type_id": 4,
+    "latitude": 53.4871944444444,
+    "longitude": -6.15169444444444
+  },
+  {
+    "id": 236,
+    "location": "l1236",
+    "name": "Donamona Castle",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.8028580555555,
+    "longitude": -9.22247611111111
+  },
+  {
+    "id": 237,
+    "location": "l1237",
+    "name": "Donegal",
+    "gaelic_name": "Dún na nGall",
+    "place_type_id": 4,
+    "latitude": 54.65,
+    "longitude": -8.11694444444444
+  },
+  {
+    "id": 238,
+    "location": "l1238",
+    "name": "Donegore",
+    "gaelic_name": "Dún Ó gCorra",
+    "place_type_id": 8,
+    "latitude": 54.735,
+    "longitude": -6.13611111111111
+  },
+  {
+    "id": 239,
+    "location": "l1239",
+    "name": "Doneraile",
+    "gaelic_name": "Dún ar Aill",
+    "place_type_id": 5,
+    "latitude": 52.2166011111111,
+    "longitude": -8.58953888888888
+  },
+  {
+    "id": 240,
+    "location": "l1240",
+    "name": "Donore",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.6415819444444,
+    "longitude": -7.38641
+  },
+  {
+    "id": 241,
+    "location": "l1241",
+    "name": "Donoure",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 51.5559319444444,
+    "longitude": -8.94681888888889
+  },
+  {
+    "id": 242,
+    "location": "l1242",
+    "name": "Doonflin",
+    "gaelic_name": "Dún Fhlainn Uachtarach",
+    "place_type_id": 5,
+    "latitude": 54.2198111111111,
+    "longitude": -8.76555305555555
+  },
+  {
+    "id": 243,
+    "location": "l1243",
+    "name": "Dorset",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 50.8333333333333,
+    "longitude": -2.33333333333333
+  },
+  {
+    "id": 244,
+    "location": "l1244",
+    "name": "Dough",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.6791780555555,
+    "longitude": -9.63980388888888
+  },
+  {
+    "id": 245,
+    "location": "l1245",
+    "name": "Dover",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.1275,
+    "longitude": 1.31222222222222
+  },
+  {
+    "id": 246,
+    "location": "l1246",
+    "name": "Down",
+    "gaelic_name": "an Dúin",
+    "place_type_id": 2,
+    "latitude": 54.36,
+    "longitude": -5.94
+  },
+  {
+    "id": 247,
+    "location": "l1247",
+    "name": "Downmogan",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.5031583333333,
+    "longitude": -7.30020277777777
+  },
+  {
+    "id": 248,
+    "location": "l1248",
+    "name": "Downpatrick",
+    "gaelic_name": "Dún Pádraig",
+    "place_type_id": 4,
+    "latitude": 54.3219444444444,
+    "longitude": -5.70305555555555
+  },
+  {
+    "id": 249,
+    "location": "l1249",
+    "name": "Dowth",
+    "gaelic_name": "Dubhadh",
+    "place_type_id": 5,
+    "latitude": 53.7053969444444,
+    "longitude": -6.44910694444444
+  },
+  {
+    "id": 250,
+    "location": "l1250",
+    "name": "Drangan",
+    "gaelic_name": "Drongán",
+    "place_type_id": 5,
+    "latitude": 52.4259161111111,
+    "longitude": -7.97005694444444
+  },
+  {
+    "id": 251,
+    "location": "l1251",
+    "name": "Drighlington",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.7566666666666,
+    "longitude": -1.66166666666666
+  },
+  {
+    "id": 252,
+    "location": "l1252",
+    "name": "Drogheda",
+    "gaelic_name": "Droichead Átha",
+    "place_type_id": 3,
+    "latitude": 53.7138888888888,
+    "longitude": -6.35027805555555
+  },
+  {
+    "id": 253,
+    "location": "l1253",
+    "name": "Drumcondra",
+    "gaelic_name": "Droim Conrach",
+    "place_type_id": 8,
+    "latitude": 53.3683511111111,
+    "longitude": -6.25575888888888
+  },
+  {
+    "id": 254,
+    "location": "l1254",
+    "name": "Dublin",
+    "gaelic_name": "Baile Átha Cliath",
+    "place_type_id": 3,
+    "latitude": 53.3425,
+    "longitude": -6.26583333333333
+  },
+  {
+    "id": 255,
+    "location": "l1255",
+    "name": "Dufferin",
+    "gaelic_name": "An Duifrian",
+    "place_type_id": 6,
+    "latitude": 54.5,
+    "longitude": -5.8
+  },
+  {
+    "id": 256,
+    "location": "l1256",
+    "name": "Dunanynie Castle",
+    "gaelic_name": "Dún an Aenaighe",
+    "place_type_id": 5,
+    "latitude": 55.2113888888888,
+    "longitude": -6.25030555555555
+  },
+  {
+    "id": 257,
+    "location": "l1257",
+    "name": "Dunbartonshire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 55.9833333333333,
+    "longitude": -4.65
+  },
+  {
+    "id": 258,
+    "location": "l1258",
+    "name": "Dunboy",
+    "gaelic_name": "Dún Baoi",
+    "place_type_id": 5,
+    "latitude": 51.6319469444444,
+    "longitude": -9.93236611111111
+  },
+  {
+    "id": 259,
+    "location": "l1259",
+    "name": "Dunboyne",
+    "gaelic_name": "Dún Búinne",
+    "place_type_id": 4,
+    "latitude": 53.4198661111111,
+    "longitude": -6.47506694444444
+  },
+  {
+    "id": 260,
+    "location": "l1260",
+    "name": "Dundalk",
+    "gaelic_name": "Dún Dealgan",
+    "place_type_id": 4,
+    "latitude": 54.009,
+    "longitude": -6.40488888888888
+  },
+  {
+    "id": 261,
+    "location": "l1261",
+    "name": "Dundee",
+    "gaelic_name": "Dún Déagh",
+    "place_type_id": 3,
+    "latitude": 56.464,
+    "longitude": -2.97
+  },
+  {
+    "id": 262,
+    "location": "l1262",
+    "name": "Dunfermline",
+    "gaelic_name": "Dún Phárlain",
+    "place_type_id": 4,
+    "latitude": 56.0713888888888,
+    "longitude": -3.46166666666666
+  },
+  {
+    "id": 263,
+    "location": "l1263",
+    "name": "Dungannon",
+    "gaelic_name": "Dún Geanainn",
+    "place_type_id": 4,
+    "latitude": 54.5,
+    "longitude": -6.8
+  },
+  {
+    "id": 264,
+    "location": "l1264",
+    "name": "Dungarvan",
+    "gaelic_name": "Dún Garbhán",
+    "place_type_id": 4,
+    "latitude": 52.0845,
+    "longitude": -7.63969444444444
+  },
+  {
+    "id": 265,
+    "location": "l1265",
+    "name": "Dunnaman",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.5264249999999,
+    "longitude": -8.76734805555555
+  },
+  {
+    "id": 266,
+    "location": "l1266",
+    "name": "Dunsany",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.5426869444444,
+    "longitude": -6.61698694444444
+  },
+  {
+    "id": 267,
+    "location": "l1267",
+    "name": "Dunwich",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 52.2769444444444,
+    "longitude": 1.62666666666666
+  },
+  {
+    "id": 268,
+    "location": "l1268",
+    "name": "Durrow",
+    "gaelic_name": "Darú",
+    "place_type_id": 4,
+    "latitude": 52.8441944444444,
+    "longitude": -7.3925
+  },
+  {
+    "id": 269,
+    "location": "l1269",
+    "name": "Dursey Island",
+    "gaelic_name": "Oileán Baoi",
+    "place_type_id": 5,
+    "latitude": 51.6,
+    "longitude": -10.2
+  },
+  {
+    "id": 270,
+    "location": "l1270",
+    "name": "East Ogwell",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 50.5152780555555,
+    "longitude": -3.64194388888888
+  },
+  {
+    "id": 271,
+    "location": "l1271",
+    "name": "Edinburgh",
+    "gaelic_name": "Dún Éideann",
+    "place_type_id": 3,
+    "latitude": 55.95,
+    "longitude": -3.19888888888888
+  },
+  {
+    "id": 272,
+    "location": "l1272",
+    "name": "Elbing",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 51.7694444444444,
+    "longitude": 10.8030555555555
+  },
+  {
+    "id": 273,
+    "location": "l1273",
+    "name": "Elphin",
+    "gaelic_name": "Ail Finn",
+    "place_type_id": 4,
+    "latitude": 53.8523055555555,
+    "longitude": -8.19780555555555
+  },
+  {
+    "id": 274,
+    "location": "l1274",
+    "name": "Emly",
+    "gaelic_name": "Imleach",
+    "place_type_id": 8,
+    "latitude": 52.4666666666666,
+    "longitude": -8.35
+  },
+  {
+    "id": 275,
+    "location": "l1275",
+    "name": "Endsworth",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 50.8488888888888,
+    "longitude": -0.938055555555555
+  },
+  {
+    "id": 276,
+    "location": "l1276",
+    "name": "Ennis",
+    "gaelic_name": "Inis",
+    "place_type_id": 4,
+    "latitude": 52.8463055555555,
+    "longitude": -8.98069444444444
+  },
+  {
+    "id": 277,
+    "location": "l1277",
+    "name": "Enniskillen",
+    "gaelic_name": "Inis Ceithleann",
+    "place_type_id": 4,
+    "latitude": 54.3447222222222,
+    "longitude": -7.63888888888888
+  },
+  {
+    "id": 278,
+    "location": "l1278",
+    "name": "Erfurt",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 50.9780555555555,
+    "longitude": 11.0291666666666
+  },
+  {
+    "id": 279,
+    "location": "l1279",
+    "name": "Essex",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 51.75,
+    "longitude": 0.583333333333333
+  },
+  {
+    "id": 280,
+    "location": "l1280",
+    "name": "Eton",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.4880555555555,
+    "longitude": -0.609166666666666
+  },
+  {
+    "id": 281,
+    "location": "l1281",
+    "name": "Exeter",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 50.7215388888888,
+    "longitude": -3.53310833333333
+  },
+  {
+    "id": 282,
+    "location": "l1282",
+    "name": "Fano",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 43.8435305555555,
+    "longitude": 13.0197555555555
+  },
+  {
+    "id": 283,
+    "location": "l1283",
+    "name": "Farnworth",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.3838888888888,
+    "longitude": -2.72805555555555
+  },
+  {
+    "id": 284,
+    "location": "l1284",
+    "name": "Farndon",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.0852777777777,
+    "longitude": -2.87805555555555
+  },
+  {
+    "id": 285,
+    "location": "l1285",
+    "name": "Farney",
+    "gaelic_name": "Fearnaigh",
+    "place_type_id": 6,
+    "latitude": 54.0,
+    "longitude": -6.59305555555555
+  },
+  {
+    "id": 286,
+    "location": "l1286",
+    "name": "Fawsley",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 52.2127777777777,
+    "longitude": -1.17444444444444
+  },
+  {
+    "id": 287,
+    "location": "l1287",
+    "name": "Fedamore",
+    "gaelic_name": "Feadamair",
+    "place_type_id": 8,
+    "latitude": 52.5833333333333,
+    "longitude": -8.56666666666666
+  },
+  {
+    "id": 288,
+    "location": "l1288",
+    "name": "Fermanagh",
+    "gaelic_name": "Fhear Manach",
+    "place_type_id": 2,
+    "latitude": 54.35,
+    "longitude": -7.63
+  },
+  {
+    "id": 289,
+    "location": "l1289",
+    "name": "Fermo",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 43.1604194444444,
+    "longitude": 13.7181
+  },
+  {
+    "id": 290,
+    "location": "l1290",
+    "name": "Fermoy",
+    "gaelic_name": "Mainistir Fhear Maí",
+    "place_type_id": 4,
+    "latitude": 52.1420219444444,
+    "longitude": -8.27613805555555
+  },
+  {
+    "id": 291,
+    "location": "l1291",
+    "name": "Ferns",
+    "gaelic_name": "Fearna",
+    "place_type_id": 4,
+    "latitude": 52.5933305555555,
+    "longitude": -6.5
+  },
+  {
+    "id": 292,
+    "location": "l1292",
+    "name": "Fethard",
+    "gaelic_name": "Fiodh Ard",
+    "place_type_id": 4,
+    "latitude": 52.465423,
+    "longitude": -7.69638630555555
+  },
+  {
+    "id": 293,
+    "location": "l1293",
+    "name": "Fidowne",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 52.8858730555555,
+    "longitude": -8.04613694444444
+  },
+  {
+    "id": 294,
+    "location": "l1294",
+    "name": "Fife",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 56.1833333333333,
+    "longitude": -3.1
+  },
+  {
+    "id": 295,
+    "location": "l1295",
+    "name": "Flanders",
+    "gaelic_name": null,
+    "place_type_id": 1,
+    "latitude": 51.0,
+    "longitude": 4.5
+  },
+  {
+    "id": 296,
+    "location": "l1296",
+    "name": "Florence",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 43.7713888888888,
+    "longitude": 11.2541666666666
+  },
+  {
+    "id": 297,
+    "location": "l1297",
+    "name": "Flores Island",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 39.4666666666666,
+    "longitude": -31.2166666666666
+  },
+  {
+    "id": 298,
+    "location": "l1298",
+    "name": "Vlissingen",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 51.45,
+    "longitude": 3.58333333333333
+  },
+  {
+    "id": 299,
+    "location": "l1299",
+    "name": "Freshwater",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 50.6825,
+    "longitude": -1.525
+  },
+  {
+    "id": 300,
+    "location": "l1300",
+    "name": "Fulham",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.4766666666666,
+    "longitude": -0.213888888888888
+  },
+  {
+    "id": 301,
+    "location": "l1301",
+    "name": "Galbally",
+    "gaelic_name": "An Gallbhaile",
+    "place_type_id": 8,
+    "latitude": 52.4011111111111,
+    "longitude": -8.29611111111111
+  },
+  {
+    "id": 302,
+    "location": "l1302",
+    "name": "Galicia",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 43.05,
+    "longitude": -8.13333333333333
+  },
+  {
+    "id": 303,
+    "location": "l1303",
+    "name": "Galway",
+    "gaelic_name": "Gaillimh",
+    "place_type_id": 3,
+    "latitude": 53.2728888888888,
+    "longitude": -9.04180555555555
+  },
+  {
+    "id": 304,
+    "location": "l1304",
+    "name": "Ganderstown",
+    "gaelic_name": "Baile Ghandair",
+    "place_type_id": 5,
+    "latitude": 53.7739830555555,
+    "longitude": -6.24675111111111
+  },
+  {
+    "id": 305,
+    "location": "l1305",
+    "name": "Garryduff",
+    "gaelic_name": "An Garraí Dubh",
+    "place_type_id": 5,
+    "latitude": 52.4385549999999,
+    "longitude": -8.17950805555555
+  },
+  {
+    "id": 306,
+    "location": "l1306",
+    "name": "Garryhill",
+    "gaelic_name": "An Gharbhchoill",
+    "place_type_id": 5,
+    "latitude": 52.6840969444444,
+    "longitude": -6.85081888888888
+  },
+  {
+    "id": 307,
+    "location": "l1307",
+    "name": "Gawsworth",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.2166666666666,
+    "longitude": -2.16666666666666
+  },
+  {
+    "id": 308,
+    "location": "l1308",
+    "name": "Genoa",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 44.4071861111111,
+    "longitude": 8.93398333333333
+  },
+  {
+    "id": 309,
+    "location": "l1309",
+    "name": "Genoch",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 55.07,
+    "longitude": -3.603
+  },
+  {
+    "id": 310,
+    "location": "l1310",
+    "name": "Gernonstown",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.6528055555555,
+    "longitude": -6.68138888888888
+  },
+  {
+    "id": 311,
+    "location": "l1311",
+    "name": "Ghent",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 51.0536111111111,
+    "longitude": 3.72527777777777
+  },
+  {
+    "id": 312,
+    "location": "l1312",
+    "name": "Glasclowen",
+    "gaelic_name": "Glaschluain",
+    "place_type_id": 5,
+    "latitude": 52.733635,
+    "longitude": -9.58856388888889
+  },
+  {
+    "id": 313,
+    "location": "l1313",
+    "name": "Glasgow",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 55.86,
+    "longitude": -4.25
+  },
+  {
+    "id": 314,
+    "location": "l1314",
+    "name": "Glashare",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.7882719444444,
+    "longitude": -7.51784
+  },
+  {
+    "id": 315,
+    "location": "l1315",
+    "name": "Glaslough",
+    "gaelic_name": "Glasloch",
+    "place_type_id": 5,
+    "latitude": 54.3191811111111,
+    "longitude": -6.89201888888888
+  },
+  {
+    "id": 316,
+    "location": "l1316",
+    "name": "Glastonbury",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.1486111111111,
+    "longitude": -2.71388888888888
+  },
+  {
+    "id": 317,
+    "location": "l1317",
+    "name": "Glen of Aherlow",
+    "gaelic_name": "Gleann Eatharlaí",
+    "place_type_id": 14,
+    "latitude": 52.419,
+    "longitude": -8.193
+  },
+  {
+    "id": 318,
+    "location": "l1318",
+    "name": "Glenfin",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.547345,
+    "longitude": -8.15983388888888
+  },
+  {
+    "id": 319,
+    "location": "l1319",
+    "name": "Glenflesk",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.0152472222222,
+    "longitude": -9.36194722222222
+  },
+  {
+    "id": 320,
+    "location": "l1320",
+    "name": "Glenmalure",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.97,
+    "longitude": -6.38
+  },
+  {
+    "id": 321,
+    "location": "l1321",
+    "name": "Glenville",
+    "gaelic_name": "Gleann an Phréacháin",
+    "place_type_id": 5,
+    "latitude": 52.049245,
+    "longitude": -8.42580805555555
+  },
+  {
+    "id": 322,
+    "location": "l1322",
+    "name": "Glyn Castle",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.5697694444444,
+    "longitude": -9.29483888888888
+  },
+  {
+    "id": 323,
+    "location": "l1323",
+    "name": "Gorinchem",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.8365194444444,
+    "longitude": 4.97243055555555
+  },
+  {
+    "id": 324,
+    "location": "l1324",
+    "name": "Gort",
+    "gaelic_name": "Gort",
+    "place_type_id": 4,
+    "latitude": 53.0659999999999,
+    "longitude": -8.81180555555555
+  },
+  {
+    "id": 325,
+    "location": "l1325",
+    "name": "Grallagh",
+    "gaelic_name": "An Ghreallach",
+    "place_type_id": 5,
+    "latitude": 52.7894961111111,
+    "longitude": -8.17232194444444
+  },
+  {
+    "id": 326,
+    "location": "l1326",
+    "name": "Granada",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 37.1780555555555,
+    "longitude": -3.60083333333333
+  },
+  {
+    "id": 327,
+    "location": "l1327",
+    "name": "Grange",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 54.19,
+    "longitude": -2.915
+  },
+  {
+    "id": 328,
+    "location": "l1328",
+    "name": "Grantham",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 52.9180555555555,
+    "longitude": -0.638055555555555
+  },
+  {
+    "id": 329,
+    "location": "l1329",
+    "name": "Graz",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 47.0666666666666,
+    "longitude": 15.4333333333333
+  },
+  {
+    "id": 330,
+    "location": "l1330",
+    "name": "Great Barr",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.5480555555555,
+    "longitude": -1.93194444444444
+  },
+  {
+    "id": 331,
+    "location": "l1331",
+    "name": "Great Milton",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.72,
+    "longitude": -1.08694444444444
+  },
+  {
+    "id": 332,
+    "location": "l1332",
+    "name": "Greenwich",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.48,
+    "longitude": 0.0
+  },
+  {
+    "id": 333,
+    "location": "l1333",
+    "name": "Groton",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 52.0380555555555,
+    "longitude": 0.856944444444444
+  },
+  {
+    "id": 334,
+    "location": "l1334",
+    "name": "Guildford",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.2353888888888,
+    "longitude": -0.574611111111111
+  },
+  {
+    "id": 335,
+    "location": "l1335",
+    "name": "Gyor",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 47.6841666666666,
+    "longitude": 17.6344444444444
+  },
+  {
+    "id": 336,
+    "location": "l1336",
+    "name": "Hackney",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.5433069444444,
+    "longitude": -0.0594861111111111
+  },
+  {
+    "id": 337,
+    "location": "l1337",
+    "name": "Hammes Castle",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 50.8813888888888,
+    "longitude": 1.84277777777777
+  },
+  {
+    "id": 338,
+    "location": "l1338",
+    "name": "Hampshire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 51.0833333333333,
+    "longitude": -1.25
+  },
+  {
+    "id": 339,
+    "location": "l1339",
+    "name": "Hampton-in-Arden",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 52.4311111111111,
+    "longitude": -1.7
+  },
+  {
+    "id": 340,
+    "location": "l1340",
+    "name": "Handsworth",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 52.5123888888888,
+    "longitude": -1.94988888888888
+  },
+  {
+    "id": 341,
+    "location": "l1341",
+    "name": "Hannington",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.6369444444444,
+    "longitude": -1.74805555555555
+  },
+  {
+    "id": 342,
+    "location": "l1342",
+    "name": "Haroldston",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.85,
+    "longitude": -5.08333333333333
+  },
+  {
+    "id": 343,
+    "location": "l1343",
+    "name": "Harristown",
+    "gaelic_name": "Baile Anraí",
+    "place_type_id": 5,
+    "latitude": 53.1384861111111,
+    "longitude": -6.68080111111111
+  },
+  {
+    "id": 344,
+    "location": "l1344",
+    "name": "Hayes Barton",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 50.65,
+    "longitude": -3.31666666666666
+  },
+  {
+    "id": 345,
+    "location": "l1345",
+    "name": "Hertfordshire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 52.0833333333333,
+    "longitude": -2.75
+  },
+  {
+    "id": 346,
+    "location": "l1346",
+    "name": "Helmstedbury",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 52.0833333333333,
+    "longitude": -2.75
+  },
+  {
+    "id": 347,
+    "location": "l1347",
+    "name": "He_x0001_Ymanice",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 50.3802777777777,
+    "longitude": 15.9180555555555
+  },
+  {
+    "id": 348,
+    "location": "l1348",
+    "name": "High Laver",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.7561111111111,
+    "longitude": 0.211944444444444
+  },
+  {
+    "id": 349,
+    "location": "l1349",
+    "name": "Highfield",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.8333333333333,
+    "longitude": -2.16666666666666
+  },
+  {
+    "id": 350,
+    "location": "l1350",
+    "name": "Holland",
+    "gaelic_name": null,
+    "place_type_id": 1,
+    "latitude": 52.25,
+    "longitude": 4.66694444444444
+  },
+  {
+    "id": 351,
+    "location": "l1351",
+    "name": "Holywell",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.2738888888888,
+    "longitude": -3.22305555555555
+  },
+  {
+    "id": 352,
+    "location": "l1352",
+    "name": "Hooke Park",
+    "gaelic_name": null,
+    "place_type_id": 14,
+    "latitude": 50.7919444444444,
+    "longitude": -2.67888888888888
+  },
+  {
+    "id": 353,
+    "location": "l1353",
+    "name": "Hospital",
+    "gaelic_name": "An tOspidéal",
+    "place_type_id": 4,
+    "latitude": 52.4666694444444,
+    "longitude": -8.4333
+  },
+  {
+    "id": 354,
+    "location": "l1354",
+    "name": "Howth",
+    "gaelic_name": "Binn Éadair",
+    "place_type_id": 5,
+    "latitude": 53.37618,
+    "longitude": -6.06261305555555
+  },
+  {
+    "id": 355,
+    "location": "l1355",
+    "name": "Huelva",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 37.25,
+    "longitude": -6.95
+  },
+  {
+    "id": 356,
+    "location": "l1356",
+    "name": "Huntingdon",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 52.3363888888888,
+    "longitude": -0.171666666666666
+  },
+  {
+    "id": 357,
+    "location": "l1357",
+    "name": "Husbands Bosworth",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 52.4525,
+    "longitude": -1.05583333333333
+  },
+  {
+    "id": 358,
+    "location": "l1358",
+    "name": "Imokilly",
+    "gaelic_name": "Uí Mhic Coille",
+    "place_type_id": 6,
+    "latitude": 51.9064919444444,
+    "longitude": -8.09458805555555
+  },
+  {
+    "id": 359,
+    "location": "l1359",
+    "name": "Inchiquin",
+    "gaelic_name": "Inse Uí Chuinn",
+    "place_type_id": 5,
+    "latitude": 51.9338080555555,
+    "longitude": -7.93849388888888
+  },
+  {
+    "id": 360,
+    "location": "l1360",
+    "name": "Ingleton",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 54.1511111111111,
+    "longitude": -2.47222222222222
+  },
+  {
+    "id": 361,
+    "location": "l1361",
+    "name": "Inishowen",
+    "gaelic_name": "Inis Eoghain",
+    "place_type_id": 6,
+    "latitude": 55.2072222222222,
+    "longitude": -7.29861111111111
+  },
+  {
+    "id": 362,
+    "location": "l1362",
+    "name": "Inishannon",
+    "gaelic_name": "Inis Eonáin",
+    "place_type_id": 8,
+    "latitude": 51.7666666666666,
+    "longitude": -8.66666666666666
+  },
+  {
+    "id": 363,
+    "location": "l1363",
+    "name": "Irvine",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 55.6194444444444,
+    "longitude": -4.66111111111111
+  },
+  {
+    "id": 364,
+    "location": "l1364",
+    "name": "Islandbridge",
+    "gaelic_name": "Droichead na hInse",
+    "place_type_id": 8,
+    "latitude": 53.3472,
+    "longitude": -6.3083
+  },
+  {
+    "id": 365,
+    "location": "l1365",
+    "name": "Iveagh",
+    "gaelic_name": "Uíbh Eachach",
+    "place_type_id": 6,
+    "latitude": 54.2576630555555,
+    "longitude": -6.07580611111111
+  },
+  {
+    "id": 366,
+    "location": "l1366",
+    "name": "Iveragh",
+    "gaelic_name": "Uíbh Ráthach",
+    "place_type_id": 6,
+    "latitude": 51.8961111111111,
+    "longitude": -10.0288888888888
+  },
+  {
+    "id": 367,
+    "location": "l1367",
+    "name": "Jamestown",
+    "gaelic_name": "Cill Srianáin",
+    "place_type_id": 4,
+    "latitude": 53.9268780555555,
+    "longitude": -8.02941694444444
+  },
+  {
+    "id": 368,
+    "location": "l1368",
+    "name": "Johnstown",
+    "gaelic_name": "Bhaile Sheáín",
+    "place_type_id": 4,
+    "latitude": 52.2930555555555,
+    "longitude": -6.505
+  },
+  {
+    "id": 369,
+    "location": "l1369",
+    "name": "Joinville",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 48.4424999999999,
+    "longitude": 5.13805555555555
+  },
+  {
+    "id": 370,
+    "location": "l1370",
+    "name": "Kanturk",
+    "gaelic_name": "Ceann Toirc",
+    "place_type_id": 4,
+    "latitude": 52.175,
+    "longitude": -8.9
+  },
+  {
+    "id": 371,
+    "location": "l1371",
+    "name": "Kassel",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 51.3157777777777,
+    "longitude": 9.49791666666666
+  },
+  {
+    "id": 372,
+    "location": "l1372",
+    "name": "Kellefaghny",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.5006019444444,
+    "longitude": -7.85656305555555
+  },
+  {
+    "id": 373,
+    "location": "l1373",
+    "name": "Kells",
+    "gaelic_name": "Ceanannas",
+    "place_type_id": 4,
+    "latitude": 53.7279980555555,
+    "longitude": -6.87761305555555
+  },
+  {
+    "id": 374,
+    "location": "l1374",
+    "name": "Kelston",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.4019444444444,
+    "longitude": -2.43166666666666
+  },
+  {
+    "id": 375,
+    "location": "l1375",
+    "name": "Kent",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 51.2489089194444,
+    "longitude": 0.674513688888888
+  },
+  {
+    "id": 376,
+    "location": "l1376",
+    "name": "Kerry",
+    "gaelic_name": "Ciarraí",
+    "place_type_id": 2,
+    "latitude": 52.1666666666666,
+    "longitude": -9.75
+  },
+  {
+    "id": 377,
+    "location": "l1377",
+    "name": "Kilbeggan",
+    "gaelic_name": "Cill Bheagáin",
+    "place_type_id": 4,
+    "latitude": 53.3636111111111,
+    "longitude": -7.4985
+  },
+  {
+    "id": 378,
+    "location": "l1378",
+    "name": "Kilbrittan",
+    "gaelic_name": "Cill Briotáin",
+    "place_type_id": 4,
+    "latitude": 51.6734011111111,
+    "longitude": -8.68819
+  },
+  {
+    "id": 379,
+    "location": "l1379",
+    "name": "Kilcarn",
+    "gaelic_name": "Cill an Chairn",
+    "place_type_id": 5,
+    "latitude": 53.625945,
+    "longitude": -6.64249999999999
+  },
+  {
+    "id": 380,
+    "location": "l1380",
+    "name": "Kilcash",
+    "gaelic_name": "Cill Chaise",
+    "place_type_id": 5,
+    "latitude": 52.3971130555555,
+    "longitude": -7.52238111111111
+  },
+  {
+    "id": 381,
+    "location": "l1381",
+    "name": "Kilcolman",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.25038,
+    "longitude": -8.61048499999999
+  },
+  {
+    "id": 382,
+    "location": "l1382",
+    "name": "Kilconnell",
+    "gaelic_name": "Cill Chonaill",
+    "place_type_id": 8,
+    "latitude": 53.3298055555555,
+    "longitude": -8.40430555555555
+  },
+  {
+    "id": 383,
+    "location": "l1383",
+    "name": "Kilconner",
+    "gaelic_name": "Coill Chonúrach",
+    "place_type_id": 5,
+    "latitude": 52.7222338888888,
+    "longitude": -6.83267694444444
+  },
+  {
+    "id": 384,
+    "location": "l1384",
+    "name": "Kilcoursey",
+    "gaelic_name": "Cill Chuairsí",
+    "place_type_id": 5,
+    "latitude": 53.3437719444444,
+    "longitude": -7.59762305555555
+  },
+  {
+    "id": 385,
+    "location": "l1385",
+    "name": "Kilcrea",
+    "gaelic_name": "Cill Chré",
+    "place_type_id": 5,
+    "latitude": 51.8573388888888,
+    "longitude": -8.70830194444444
+  },
+  {
+    "id": 386,
+    "location": "l1386",
+    "name": "Kilcullen",
+    "gaelic_name": "Cill Chuilinn",
+    "place_type_id": 5,
+    "latitude": 52.5810980555555,
+    "longitude": -6.66097694444444
+  },
+  {
+    "id": 387,
+    "location": "l1387",
+    "name": "Kildare",
+    "gaelic_name": "Cill Dara",
+    "place_type_id": 4,
+    "latitude": 53.1568588888888,
+    "longitude": -6.90902694444444
+  },
+  {
+    "id": 388,
+    "location": "l1388",
+    "name": "Killeen",
+    "gaelic_name": "An Cillín",
+    "place_type_id": 5,
+    "latitude": 53.5383369444444,
+    "longitude": -6.59411805555555
+  },
+  {
+    "id": 389,
+    "location": "l1389",
+    "name": "Kilfaughny",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.5006019444444,
+    "longitude": -7.85656305555555
+  },
+  {
+    "id": 390,
+    "location": "l1390",
+    "name": "Kilfinane",
+    "gaelic_name": "Cill Fhíonáin",
+    "place_type_id": 4,
+    "latitude": 52.3602778055555,
+    "longitude": -8.49305561111111
+  },
+  {
+    "id": 391,
+    "location": "l1391",
+    "name": "Kilfinny",
+    "gaelic_name": "Cill na Fíonaí",
+    "place_type_id": 5,
+    "latitude": 52.5050411111111,
+    "longitude": -8.79346
+  },
+  {
+    "id": 392,
+    "location": "l1392",
+    "name": "Kilkea",
+    "gaelic_name": "Cill Cathaigh",
+    "place_type_id": 4,
+    "latitude": 52.9485083333333,
+    "longitude": -6.89340555555555
+  },
+  {
+    "id": 393,
+    "location": "l1393",
+    "name": "Kilkenny",
+    "gaelic_name": "Cill Chainnigh",
+    "place_type_id": 3,
+    "latitude": 52.6476944444444,
+    "longitude": -7.25611111111111
+  },
+  {
+    "id": 394,
+    "location": "l1394",
+    "name": "Killaloe",
+    "gaelic_name": "Cill Dalua",
+    "place_type_id": 8,
+    "latitude": 52.8,
+    "longitude": -8.45
+  },
+  {
+    "id": 395,
+    "location": "l1395",
+    "name": "Killarney",
+    "gaelic_name": "Cill Airne",
+    "place_type_id": 4,
+    "latitude": 52.0588055555555,
+    "longitude": -9.50719444444444
+  },
+  {
+    "id": 396,
+    "location": "l1396",
+    "name": "Killorglin",
+    "gaelic_name": "Cill Orglan",
+    "place_type_id": 4,
+    "latitude": 52.106505,
+    "longitude": -9.78504194444444
+  },
+  {
+    "id": 397,
+    "location": "l1397",
+    "name": "Killybegs",
+    "gaelic_name": "Na Cealla Beaga",
+    "place_type_id": 4,
+    "latitude": 54.6361111111111,
+    "longitude": -8.44438888888889
+  },
+  {
+    "id": 398,
+    "location": "l1398",
+    "name": "Kilmacrennan",
+    "gaelic_name": "Cill Mhic Réanáin",
+    "place_type_id": 5,
+    "latitude": 55.0313211111111,
+    "longitude": -7.77554611111111
+  },
+  {
+    "id": 399,
+    "location": "l1399",
+    "name": "Kilmaleery",
+    "gaelic_name": "Cill Mhaoilfhithrigh",
+    "place_type_id": 5,
+    "latitude": 52.7413980555555,
+    "longitude": -8.93322805555555
+  },
+  {
+    "id": 400,
+    "location": "l1400",
+    "name": "Kilmaley",
+    "gaelic_name": "Cill Mhaile",
+    "place_type_id": 8,
+    "latitude": 52.8333333333333,
+    "longitude": -9.11666666666666
+  },
+  {
+    "id": 401,
+    "location": "l1401",
+    "name": "Kilmallock",
+    "gaelic_name": "Cill Mocheallóg",
+    "place_type_id": 4,
+    "latitude": 52.41,
+    "longitude": -8.58333305555555
+  },
+  {
+    "id": 402,
+    "location": "l1402",
+    "name": "Kilminchy",
+    "gaelic_name": "Coill Mhinsin",
+    "place_type_id": 5,
+    "latitude": 53.0454411111111,
+    "longitude": -7.26291194444444
+  },
+  {
+    "id": 403,
+    "location": "l1403",
+    "name": "Kilmore",
+    "gaelic_name": "An Chill Mhór",
+    "place_type_id": 4,
+    "latitude": 52.2057911111111,
+    "longitude": -6.54963611111111
+  },
+  {
+    "id": 404,
+    "location": "l1404",
+    "name": "Kilmurry Ibrickan",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.7986277777777,
+    "longitude": -9.43301111111111
+  },
+  {
+    "id": 405,
+    "location": "l1405",
+    "name": "Kilnamanagh",
+    "gaelic_name": "Coill na Manach ",
+    "place_type_id": 6,
+    "latitude": 52.5831619444444,
+    "longitude": -8.09467
+  },
+  {
+    "id": 406,
+    "location": "l1406",
+    "name": "Kilrea",
+    "gaelic_name": "Coill righ",
+    "place_type_id": 5,
+    "latitude": 54.24584,
+    "longitude": -6.38183388888888
+  },
+  {
+    "id": 407,
+    "location": "l1407",
+    "name": "Kilronan",
+    "gaelic_name": "Cill Rónáin",
+    "place_type_id": 8,
+    "latitude": 53.1246944444444,
+    "longitude": -9.66830555555555
+  },
+  {
+    "id": 408,
+    "location": "l1408",
+    "name": "Kilsarkan",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.150255,
+    "longitude": -9.43138888888888
+  },
+  {
+    "id": 409,
+    "location": "l1409",
+    "name": "Kilshannig",
+    "gaelic_name": "Cill Seanaigh",
+    "place_type_id": 5,
+    "latitude": 52.0624480555555,
+    "longitude": -8.28750305555555
+  },
+  {
+    "id": 410,
+    "location": "l1410",
+    "name": "Kilsyth",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 55.98,
+    "longitude": -4.06
+  },
+  {
+    "id": 411,
+    "location": "l1411",
+    "name": "Kiltannon",
+    "gaelic_name": "Cill tSeanáin",
+    "place_type_id": 5,
+    "latitude": 52.9106288888888,
+    "longitude": -8.774995
+  },
+  {
+    "id": 412,
+    "location": "l1412",
+    "name": "Kiltimon",
+    "gaelic_name": "Coill tSíomóin",
+    "place_type_id": 5,
+    "latitude": 53.0534488888888,
+    "longitude": -6.09694
+  },
+  {
+    "id": 413,
+    "location": "l1413",
+    "name": "Kinalmeaky",
+    "gaelic_name": "Cineál mBéice",
+    "place_type_id": 6,
+    "latitude": 51.7360711111111,
+    "longitude": -8.81921388888889
+  },
+  {
+    "id": 414,
+    "location": "l1414",
+    "name": "Kingston upon Hull",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 53.7444444444444,
+    "longitude": -0.332499999999999
+  },
+  {
+    "id": 415,
+    "location": "l1415",
+    "name": "Kinsale",
+    "gaelic_name": "Cionn tSáile",
+    "place_type_id": 4,
+    "latitude": 51.7075,
+    "longitude": -8.53055561111111
+  },
+  {
+    "id": 416,
+    "location": "l1416",
+    "name": "Kinturk",
+    "gaelic_name": "Cionn Torc",
+    "place_type_id": 5,
+    "latitude": 53.7971361111111,
+    "longitude": -9.310865
+  },
+  {
+    "id": 417,
+    "location": "l1417",
+    "name": "Knockainy",
+    "gaelic_name": null,
+    "place_type_id": 13,
+    "latitude": 52.3220488888888,
+    "longitude": -7.78157111111111
+  },
+  {
+    "id": 418,
+    "location": "l1418",
+    "name": "Knocknamona",
+    "gaelic_name": null,
+    "place_type_id": 13,
+    "latitude": 52.1731349999999,
+    "longitude": -7.84474999999999
+  },
+  {
+    "id": 419,
+    "location": "l1419",
+    "name": "Kreans",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 49.2011111111111,
+    "longitude": -1.56694444444444
+  },
+  {
+    "id": 420,
+    "location": "l1420",
+    "name": "Kilcooly",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.6651469444444,
+    "longitude": -8.48980694444444
+  },
+  {
+    "id": 421,
+    "location": "l1421",
+    "name": "Killininneen",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.4698311111111,
+    "longitude": -7.77486
+  },
+  {
+    "id": 422,
+    "location": "l1422",
+    "name": "La Rochelle",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 46.1594444444444,
+    "longitude": -1.15138888888888
+  },
+  {
+    "id": 423,
+    "location": "l1423",
+    "name": "Lackan",
+    "gaelic_name": "An Leacain",
+    "place_type_id": 5,
+    "latitude": 53.7234661111111,
+    "longitude": -8.08447388888888
+  },
+  {
+    "id": 424,
+    "location": "l1424",
+    "name": "Lambeth",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 51.4608333333333,
+    "longitude": -0.116388888888888
+  },
+  {
+    "id": 425,
+    "location": "l1425",
+    "name": "Lancashire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 53.8,
+    "longitude": -2.6
+  },
+  {
+    "id": 426,
+    "location": "l1426",
+    "name": "Landen",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 50.755,
+    "longitude": 5.08111111111111
+  },
+  {
+    "id": 427,
+    "location": "l1427",
+    "name": "Laois",
+    "gaelic_name": "Laoise",
+    "place_type_id": 2,
+    "latitude": 53.0,
+    "longitude": -7.4
+  },
+  {
+    "id": 428,
+    "location": "l1428",
+    "name": "Lees",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.5388888888888,
+    "longitude": -2.06961111111111
+  },
+  {
+    "id": 429,
+    "location": "l1429",
+    "name": "Leicestershire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 52.7166666666666,
+    "longitude": -1.18333333333333
+  },
+  {
+    "id": 430,
+    "location": "l1430",
+    "name": "Leighlinbridge",
+    "gaelic_name": "Leithghlinn an Droichid",
+    "place_type_id": 4,
+    "latitude": 52.7363888888888,
+    "longitude": -6.9725
+  },
+  {
+    "id": 431,
+    "location": "l1431",
+    "name": "Leitrim",
+    "gaelic_name": "Liatroma",
+    "place_type_id": 2,
+    "latitude": 54.1166666666666,
+    "longitude": -8.0
+  },
+  {
+    "id": 432,
+    "location": "l1432",
+    "name": "Leitrim Castle",
+    "gaelic_name": "Liatroim",
+    "place_type_id": 8,
+    "latitude": 53.9908055555555,
+    "longitude": -8.06361111111111
+  },
+  {
+    "id": 433,
+    "location": "l1433",
+    "name": "Leix",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 53.0,
+    "longitude": -7.4
+  },
+  {
+    "id": 434,
+    "location": "l1434",
+    "name": "Leslie",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 56.2019444444444,
+    "longitude": -3.21111111111111
+  },
+  {
+    "id": 435,
+    "location": "l1435",
+    "name": "Lexington",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.1961111111111,
+    "longitude": -0.919999999999999
+  },
+  {
+    "id": 436,
+    "location": "l1436",
+    "name": "Leyny",
+    "gaelic_name": null,
+    "place_type_id": 6,
+    "latitude": 54.2004030555555,
+    "longitude": -8.584895
+  },
+  {
+    "id": 437,
+    "location": "l1437",
+    "name": "Lichfield",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 52.6834999999999,
+    "longitude": -1.82653055555555
+  },
+  {
+    "id": 438,
+    "location": "l1438",
+    "name": "Lifford",
+    "gaelic_name": "Leifear",
+    "place_type_id": 4,
+    "latitude": 54.8355988888888,
+    "longitude": -7.47791305555555
+  },
+  {
+    "id": 439,
+    "location": "l1439",
+    "name": "Limerick",
+    "gaelic_name": "Luimneach",
+    "place_type_id": 3,
+    "latitude": 52.6653055555555,
+    "longitude": -8.62380555555555
+  },
+  {
+    "id": 440,
+    "location": "l1440",
+    "name": "Lincoln",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 53.25,
+    "longitude": -0.55
+  },
+  {
+    "id": 441,
+    "location": "l1441",
+    "name": "Lincolnshire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 53.0666666666666,
+    "longitude": -0.183333333333333
+  },
+  {
+    "id": 442,
+    "location": "l1442",
+    "name": "Linlithgow Palace",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 55.9785,
+    "longitude": -3.60097
+  },
+  {
+    "id": 443,
+    "location": "l1443",
+    "name": "Lisbon",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 38.7451944444444,
+    "longitude": -9.16038888888888
+  },
+  {
+    "id": 444,
+    "location": "l1444",
+    "name": "Lisburn",
+    "gaelic_name": "Lios na gCearrbhach",
+    "place_type_id": 3,
+    "latitude": 54.5166666666666,
+    "longitude": -6.03333333333333
+  },
+  {
+    "id": 445,
+    "location": "l1445",
+    "name": "Liscannor",
+    "gaelic_name": "Lios Ceannúir",
+    "place_type_id": 4,
+    "latitude": 52.9386111111111,
+    "longitude": -9.39111111111111
+  },
+  {
+    "id": 446,
+    "location": "l1446",
+    "name": "Liscarroll",
+    "gaelic_name": "Lios Cearúill",
+    "place_type_id": 8,
+    "latitude": 52.25,
+    "longitude": -8.8
+  },
+  {
+    "id": 447,
+    "location": "l1447",
+    "name": "Lisleigh",
+    "gaelic_name": "An Lios Liath",
+    "place_type_id": 5,
+    "latitude": 52.9902061111111,
+    "longitude": -8.09834611111111
+  },
+  {
+    "id": 448,
+    "location": "l1448",
+    "name": "Lismore",
+    "gaelic_name": "Lios Mór",
+    "place_type_id": 4,
+    "latitude": 52.1366944444444,
+    "longitude": -7.93080555555555
+  },
+  {
+    "id": 449,
+    "location": "l1449",
+    "name": "Lismullen",
+    "gaelic_name": "Lios Muilinn",
+    "place_type_id": 5,
+    "latitude": 53.5990980555555,
+    "longitude": -6.58691194444444
+  },
+  {
+    "id": 450,
+    "location": "l1450",
+    "name": "Lisraney",
+    "gaelic_name": "Lios Raithní",
+    "place_type_id": 5,
+    "latitude": 53.9009438888888,
+    "longitude": -6.53338694444444
+  },
+  {
+    "id": 451,
+    "location": "l1451",
+    "name": "Little Musgrave",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 54.5166944444444,
+    "longitude": -2.36669444444444
+  },
+  {
+    "id": 452,
+    "location": "l1452",
+    "name": "Lixnaw",
+    "gaelic_name": "Leic Snámha",
+    "place_type_id": 8,
+    "latitude": 52.4019444444444,
+    "longitude": -9.61611111111111
+  },
+  {
+    "id": 453,
+    "location": "l1453",
+    "name": "Londesborough",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.8986111111111,
+    "longitude": -0.679444444444444
+  },
+  {
+    "id": 454,
+    "location": "l1454",
+    "name": "London",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 51.5072222222222,
+    "longitude": -0.1275
+  },
+  {
+    "id": 455,
+    "location": "l1455",
+    "name": "Longford",
+    "gaelic_name": "Longfort",
+    "place_type_id": 4,
+    "latitude": 53.727,
+    "longitude": -7.79980555555555
+  },
+  {
+    "id": 456,
+    "location": "l1456",
+    "name": "Lough Glynn",
+    "gaelic_name": "Loch Glinne",
+    "place_type_id": 4,
+    "latitude": 53.8166666666666,
+    "longitude": -8.55
+  },
+  {
+    "id": 457,
+    "location": "l1457",
+    "name": "Lough Gur",
+    "gaelic_name": "Loch Gair",
+    "place_type_id": 15,
+    "latitude": 52.5163888888888,
+    "longitude": -8.53333333333333
+  },
+  {
+    "id": 458,
+    "location": "l1458",
+    "name": "Loughcrew",
+    "gaelic_name": "Loch Craobh",
+    "place_type_id": 4,
+    "latitude": 53.7694444444444,
+    "longitude": -7.10305555555555
+  },
+  {
+    "id": 459,
+    "location": "l1459",
+    "name": "Loughmore",
+    "gaelic_name": "Luach Maigh",
+    "place_type_id": 8,
+    "latitude": 52.7574438888888,
+    "longitude": -7.82722305555555
+  },
+  {
+    "id": 460,
+    "location": "l1460",
+    "name": "Loughrea",
+    "gaelic_name": "Baile Locha Riach",
+    "place_type_id": 4,
+    "latitude": 53.1968888888888,
+    "longitude": -8.56688888888888
+  },
+  {
+    "id": 461,
+    "location": "l1461",
+    "name": "Louth",
+    "gaelic_name": "Lú",
+    "place_type_id": 2,
+    "latitude": 53.8333333333333,
+    "longitude": -6.5
+  },
+  {
+    "id": 462,
+    "location": "l1462",
+    "name": "Louvain",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 50.8775,
+    "longitude": 4.70444388888888
+  },
+  {
+    "id": 463,
+    "location": "l1463",
+    "name": "Ludlow",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 52.3666666666666,
+    "longitude": -2.71666666666666
+  },
+  {
+    "id": 464,
+    "location": "l1464",
+    "name": "Luggau",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 53.0974722222222,
+    "longitude": 11.0752222222222
+  },
+  {
+    "id": 465,
+    "location": "l1465",
+    "name": "Lusk",
+    "gaelic_name": "Lusca",
+    "place_type_id": 4,
+    "latitude": 53.5259999999999,
+    "longitude": -6.167
+  },
+  {
+    "id": 466,
+    "location": "l1466",
+    "name": "Luttrellstown",
+    "gaelic_name": "Baile Lotrail",
+    "place_type_id": 5,
+    "latitude": 53.3736769444444,
+    "longitude": -6.42582694444444
+  },
+  {
+    "id": 467,
+    "location": "l1467",
+    "name": "Lutzen",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.2583333333333,
+    "longitude": 12.1416666666666
+  },
+  {
+    "id": 468,
+    "location": "l1468",
+    "name": "Lyon",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 45.7588888888888,
+    "longitude": 4.84138888888888
+  },
+  {
+    "id": 469,
+    "location": "l1469",
+    "name": "Madrid",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 40.4188888888888,
+    "longitude": -3.69194444444444
+  },
+  {
+    "id": 470,
+    "location": "l1470",
+    "name": "Magilligan",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 55.1927388888888,
+    "longitude": -6.96238055555555
+  },
+  {
+    "id": 471,
+    "location": "l1471",
+    "name": "Malahide",
+    "gaelic_name": "Mullach Íde",
+    "place_type_id": 5,
+    "latitude": 53.4508055555555,
+    "longitude": -6.15438888888889
+  },
+  {
+    "id": 472,
+    "location": "l1472",
+    "name": "Mallow",
+    "gaelic_name": "Maigh Eala",
+    "place_type_id": 4,
+    "latitude": 52.131,
+    "longitude": -8.64149999999999
+  },
+  {
+    "id": 473,
+    "location": "l1473",
+    "name": "Manorhamilton",
+    "gaelic_name": "Cluainín",
+    "place_type_id": 4,
+    "latitude": 54.3063888888888,
+    "longitude": -8.17611111111111
+  },
+  {
+    "id": 474,
+    "location": "l1474",
+    "name": "Mantua",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 45.1563888888888,
+    "longitude": 10.7911111111111
+  },
+  {
+    "id": 475,
+    "location": "l1475",
+    "name": "Mayne",
+    "gaelic_name": "An Mhaighean",
+    "place_type_id": 5,
+    "latitude": 53.4298111111111,
+    "longitude": -6.42911611111111
+  },
+  {
+    "id": 476,
+    "location": "l1476",
+    "name": "Maynooth",
+    "gaelic_name": "Maigh Nuad",
+    "place_type_id": 4,
+    "latitude": 53.385,
+    "longitude": -6.59361111111111
+  },
+  {
+    "id": 477,
+    "location": "l1477",
+    "name": "Mayo",
+    "gaelic_name": "Maigh Eo",
+    "place_type_id": 2,
+    "latitude": 53.9,
+    "longitude": -9.25
+  },
+  {
+    "id": 478,
+    "location": "l1478",
+    "name": "Meath",
+    "gaelic_name": "Mí",
+    "place_type_id": 2,
+    "latitude": 53.6666666666666,
+    "longitude": -6.66666666666666
+  },
+  {
+    "id": 479,
+    "location": "l1479",
+    "name": "Merida",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 38.9158333333333,
+    "longitude": -6.33333333333333
+  },
+  {
+    "id": 480,
+    "location": "l1480",
+    "name": "Merionethshire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 52.8333055555555,
+    "longitude": -3.83330555555555
+  },
+  {
+    "id": 481,
+    "location": "l1481",
+    "name": "Merrion Castle",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.3144444444444,
+    "longitude": -6.20722222222222
+  },
+  {
+    "id": 482,
+    "location": "l1482",
+    "name": "Mexico",
+    "gaelic_name": null,
+    "place_type_id": 11,
+    "latitude": 23.0,
+    "longitude": -102.0
+  },
+  {
+    "id": 483,
+    "location": "l1483",
+    "name": "Meylerstowne",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.26142,
+    "longitude": -6.80199694444444
+  },
+  {
+    "id": 484,
+    "location": "l1484",
+    "name": "Middleham",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 54.2858333333333,
+    "longitude": -1.80861111111111
+  },
+  {
+    "id": 485,
+    "location": "l1485",
+    "name": "Middlesex",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 51.5,
+    "longitude": -0.416666666666666
+  },
+  {
+    "id": 486,
+    "location": "l1486",
+    "name": "Midleton",
+    "gaelic_name": "Mainistir na Corann",
+    "place_type_id": 4,
+    "latitude": 51.9088055555555,
+    "longitude": -8.17469444444444
+  },
+  {
+    "id": 487,
+    "location": "l1487",
+    "name": "Milan",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 45.4669444444444,
+    "longitude": 9.19
+  },
+  {
+    "id": 488,
+    "location": "l1488",
+    "name": "Millmount",
+    "gaelic_name": "Ard an Mhuilinn",
+    "place_type_id": 5,
+    "latitude": 52.3964761111111,
+    "longitude": -8.55813
+  },
+  {
+    "id": 489,
+    "location": "l1489",
+    "name": "Mobarnan",
+    "gaelic_name": "Maigh Bearnáin",
+    "place_type_id": 5,
+    "latitude": 52.5110319444444,
+    "longitude": -7.75288805555555
+  },
+  {
+    "id": 490,
+    "location": "l1490",
+    "name": "Mohun's Ottery",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 50.8530555555555,
+    "longitude": -3.18194444444444
+  },
+  {
+    "id": 491,
+    "location": "l1491",
+    "name": "Molahiffe",
+    "gaelic_name": "Maigh Fhlaithimh",
+    "place_type_id": 6,
+    "latitude": 52.161605,
+    "longitude": -9.55628194444444
+  },
+  {
+    "id": 492,
+    "location": "l1492",
+    "name": "Monaghan",
+    "gaelic_name": "Muineachán",
+    "place_type_id": 4,
+    "latitude": 54.2479261111111,
+    "longitude": -6.970825
+  },
+  {
+    "id": 493,
+    "location": "l1493",
+    "name": "Mondoví",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 44.3833333333333,
+    "longitude": 7.81666666666666
+  },
+  {
+    "id": 494,
+    "location": "l1494",
+    "name": "Monmouthshire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 51.7833333333333,
+    "longitude": -2.86666666666666
+  },
+  {
+    "id": 495,
+    "location": "l1495",
+    "name": "Monte San Savino",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 43.3302777777777,
+    "longitude": 11.7308333333333
+  },
+  {
+    "id": 496,
+    "location": "l1496",
+    "name": "Montepulciano",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 43.1,
+    "longitude": 11.7833333333333
+  },
+  {
+    "id": 497,
+    "location": "l1497",
+    "name": "Montferrat",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 43.6116666666666,
+    "longitude": 6.48111111111111
+  },
+  {
+    "id": 498,
+    "location": "l1498",
+    "name": "Moor Park",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.6283055555555,
+    "longitude": -0.448
+  },
+  {
+    "id": 499,
+    "location": "l1499",
+    "name": "Moorehouse",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.5666666666666,
+    "longitude": -1.26666666666666
+  },
+  {
+    "id": 500,
+    "location": "l1500",
+    "name": "Mooretown",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.149375,
+    "longitude": -6.95356888888888
+  },
+  {
+    "id": 501,
+    "location": "l1501",
+    "name": "Moreagh",
+    "gaelic_name": "Maigh Riabhach",
+    "place_type_id": 5,
+    "latitude": 51.7063880555555,
+    "longitude": -9.06838111111111
+  },
+  {
+    "id": 502,
+    "location": "l1502",
+    "name": "Mount Charles",
+    "gaelic_name": "Tamhnach an tSalainn",
+    "place_type_id": 4,
+    "latitude": 54.6463888888888,
+    "longitude": -8.19555555555555
+  },
+  {
+    "id": 503,
+    "location": "l1503",
+    "name": "Moycullen",
+    "gaelic_name": "Maigh Cuilinn",
+    "place_type_id": 4,
+    "latitude": 53.3391,
+    "longitude": -9.18041944444444
+  },
+  {
+    "id": 504,
+    "location": "l1504",
+    "name": "Moyglass",
+    "gaelic_name": "Maigh Ghlas",
+    "place_type_id": 5,
+    "latitude": 52.78642,
+    "longitude": -9.39274805555555
+  },
+  {
+    "id": 505,
+    "location": "l1505",
+    "name": "Muckross",
+    "gaelic_name": "Mucros",
+    "place_type_id": 5,
+    "latitude": 52.0198538888888,
+    "longitude": -9.512695
+  },
+  {
+    "id": 506,
+    "location": "l1506",
+    "name": "Mullaghmore",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.4658338888888,
+    "longitude": -8.61906194444444
+  },
+  {
+    "id": 507,
+    "location": "l1507",
+    "name": "Mullins",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.4959194444444,
+    "longitude": -6.93698888888888
+  },
+  {
+    "id": 508,
+    "location": "l1508",
+    "name": "Mulrankin",
+    "gaelic_name": "Maol Rancáin",
+    "place_type_id": 5,
+    "latitude": 52.2379438888888,
+    "longitude": -6.54118194444444
+  },
+  {
+    "id": 509,
+    "location": "l1509",
+    "name": "Multyfarnham",
+    "gaelic_name": "Muilte Farannáin",
+    "place_type_id": 8,
+    "latitude": 53.6169444444444,
+    "longitude": -7.38305555555555
+  },
+  {
+    "id": 510,
+    "location": "l1510",
+    "name": "Muskerry",
+    "gaelic_name": "Múscraí",
+    "place_type_id": 6,
+    "latitude": 51.808575,
+    "longitude": -9.06973
+  },
+  {
+    "id": 511,
+    "location": "l1511",
+    "name": "Mylapore",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 13.0336111111111,
+    "longitude": 80.2686111111111
+  },
+  {
+    "id": 512,
+    "location": "l1512",
+    "name": "Naas",
+    "gaelic_name": "An Nás",
+    "place_type_id": 4,
+    "latitude": 53.2158055555555,
+    "longitude": -6.66688888888888
+  },
+  {
+    "id": 513,
+    "location": "l1513",
+    "name": "Nancy",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 48.6927777777777,
+    "longitude": 6.18361111111111
+  },
+  {
+    "id": 514,
+    "location": "l1514",
+    "name": "Nantes",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 47.2172222222222,
+    "longitude": -1.55388888888888
+  },
+  {
+    "id": 515,
+    "location": "l1515",
+    "name": "Naples",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 40.8333333333333,
+    "longitude": 14.25
+  },
+  {
+    "id": 516,
+    "location": "l1516",
+    "name": "Navan",
+    "gaelic_name": "An Uaimh",
+    "place_type_id": 4,
+    "latitude": 53.6528055555555,
+    "longitude": -6.68138888888888
+  },
+  {
+    "id": 517,
+    "location": "l1517",
+    "name": "Neale",
+    "gaelic_name": "An Éill",
+    "place_type_id": 6,
+    "latitude": 53.5882711111111,
+    "longitude": -9.26232388888888
+  },
+  {
+    "id": 518,
+    "location": "l1518",
+    "name": "Nenagh",
+    "gaelic_name": "Aonach Urmhumhan",
+    "place_type_id": 4,
+    "latitude": 52.8631944444444,
+    "longitude": -8.1995
+  },
+  {
+    "id": 519,
+    "location": "l1519",
+    "name": "New Ross",
+    "gaelic_name": "Ros Mhic Thriúin",
+    "place_type_id": 4,
+    "latitude": 52.3956111111111,
+    "longitude": -6.94507611111111
+  },
+  {
+    "id": 520,
+    "location": "l1520",
+    "name": "New York",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 40.6699999999999,
+    "longitude": -73.94
+  },
+  {
+    "id": 521,
+    "location": "l1521",
+    "name": "Newbury",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.4008333333333,
+    "longitude": -1.32361111111111
+  },
+  {
+    "id": 522,
+    "location": "l1522",
+    "name": "Newcastle",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 54.9777777777777,
+    "longitude": -1.61333333333333
+  },
+  {
+    "id": 523,
+    "location": "l1523",
+    "name": "Newcastle Under Lyme",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 53.0108333333333,
+    "longitude": -2.22777777777777
+  },
+  {
+    "id": 524,
+    "location": "l1524",
+    "name": "Newry",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 54.1755555555555,
+    "longitude": -6.34916666666666
+  },
+  {
+    "id": 525,
+    "location": "l1525",
+    "name": "Newtown",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 52.5133333333333,
+    "longitude": -3.31416666666666
+  },
+  {
+    "id": 526,
+    "location": "l1526",
+    "name": "Norfolk",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 52.6666666666666,
+    "longitude": 1.0
+  },
+  {
+    "id": 527,
+    "location": "l1527",
+    "name": "Northall",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.7,
+    "longitude": -0.2
+  },
+  {
+    "id": 528,
+    "location": "l1528",
+    "name": "Nottingham",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 52.955,
+    "longitude": -1.14916666666666
+  },
+  {
+    "id": 529,
+    "location": "l1529",
+    "name": "Nottinghamshire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 53.1666666666666,
+    "longitude": -1.0
+  },
+  {
+    "id": 530,
+    "location": "l1530",
+    "name": "Nuremberg",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 49.4527777777777,
+    "longitude": 11.0777777777777
+  },
+  {
+    "id": 531,
+    "location": "l1531",
+    "name": "Offaly",
+    "gaelic_name": "Uíbh Fhailí",
+    "place_type_id": 2,
+    "latitude": 53.25,
+    "longitude": -7.5
+  },
+  {
+    "id": 532,
+    "location": "l1532",
+    "name": "Omeath",
+    "gaelic_name": "Ó Méith",
+    "place_type_id": 4,
+    "latitude": 54.09,
+    "longitude": -6.25833333333333
+  },
+  {
+    "id": 533,
+    "location": "l1533",
+    "name": "Oporto",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 41.1494722222222,
+    "longitude": -8.61077777777777
+  },
+  {
+    "id": 534,
+    "location": "l1534",
+    "name": "Orior",
+    "gaelic_name": "Na hOirthir",
+    "place_type_id": 6,
+    "latitude": 54.2394411111111,
+    "longitude": -6.42083805555555
+  },
+  {
+    "id": 535,
+    "location": "l1535",
+    "name": "Ormond",
+    "gaelic_name": "Urumhain",
+    "place_type_id": 6,
+    "latitude": 52.6962799999999,
+    "longitude": -7.90068611111111
+  },
+  {
+    "id": 536,
+    "location": "l1536",
+    "name": "Oberstown",
+    "gaelic_name": "Baile Osbeirn",
+    "place_type_id": 5,
+    "latitude": 53.2375,
+    "longitude": -6.68303805555555
+  },
+  {
+    "id": 537,
+    "location": "l1537",
+    "name": "Ossory",
+    "gaelic_name": null,
+    "place_type_id": 6,
+    "latitude": 52.9475019444444,
+    "longitude": -7.614235
+  },
+  {
+    "id": 538,
+    "location": "l1538",
+    "name": "Oxford",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 51.75,
+    "longitude": -1.25
+  },
+  {
+    "id": 539,
+    "location": "l1539",
+    "name": "Oxfordshire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 51.75,
+    "longitude": -1.28333333333333
+  },
+  {
+    "id": 540,
+    "location": "l1540",
+    "name": "Oxmanstown",
+    "gaelic_name": "Baile Lochlannach",
+    "place_type_id": 4,
+    "latitude": 53.3486111111111,
+    "longitude": -6.27833333333333
+  },
+  {
+    "id": 541,
+    "location": "l1541",
+    "name": "Padua",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 45.4063888888888,
+    "longitude": 11.8777777777777
+  },
+  {
+    "id": 542,
+    "location": "l1542",
+    "name": "Paisley",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 55.85,
+    "longitude": -4.43333333333333
+  },
+  {
+    "id": 543,
+    "location": "l1543",
+    "name": "Pallas",
+    "gaelic_name": "An Phailís",
+    "place_type_id": 5,
+    "latitude": 53.5744461111111,
+    "longitude": -7.70041888888888
+  },
+  {
+    "id": 544,
+    "location": "l1544",
+    "name": "Palombara",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 42.3423805555555,
+    "longitude": 13.4300305555555
+  },
+  {
+    "id": 545,
+    "location": "l1545",
+    "name": "Paris",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 48.8569444444444,
+    "longitude": 2.35138888888888
+  },
+  {
+    "id": 546,
+    "location": "l1546",
+    "name": "Park",
+    "gaelic_name": "An Pháirc",
+    "place_type_id": 5,
+    "latitude": 53.1788780555555,
+    "longitude": -7.71353111111111
+  },
+  {
+    "id": 547,
+    "location": "l1547",
+    "name": "Parsonstown",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 53.0913888888888,
+    "longitude": -7.91330555555555
+  },
+  {
+    "id": 548,
+    "location": "l1548",
+    "name": "Pau",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 43.3008333333333,
+    "longitude": -0.37
+  },
+  {
+    "id": 549,
+    "location": "l1549",
+    "name": "Penshurst",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.1702777777777,
+    "longitude": 0.18
+  },
+  {
+    "id": 550,
+    "location": "l1550",
+    "name": "Pescina",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 42.0263888888888,
+    "longitude": 13.6588888888888
+  },
+  {
+    "id": 551,
+    "location": "l1551",
+    "name": "Peterborough",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 52.5833333333333,
+    "longitude": -0.25
+  },
+  {
+    "id": 552,
+    "location": "l1552",
+    "name": "Philipstown",
+    "gaelic_name": "Baile Philib",
+    "place_type_id": 5,
+    "latitude": 54.0286880555555,
+    "longitude": -6.48987
+  },
+  {
+    "id": 553,
+    "location": "l1553",
+    "name": "Pinnock",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 50.4419444444444,
+    "longitude": -4.53388888888888
+  },
+  {
+    "id": 554,
+    "location": "l1554",
+    "name": "Poitiers",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 46.5811111111111,
+    "longitude": 0.335277777777777
+  },
+  {
+    "id": 555,
+    "location": "l1555",
+    "name": "Pollycurry",
+    "gaelic_name": null,
+    "place_type_id": 13,
+    "latitude": 51.7095030555555,
+    "longitude": -8.41374111111111
+  },
+  {
+    "id": 556,
+    "location": "l1556",
+    "name": "Pontefract",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 53.6911111111111,
+    "longitude": -1.31194444444444
+  },
+  {
+    "id": 557,
+    "location": "l1557",
+    "name": "Porkington",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 52.9,
+    "longitude": -3.1
+  },
+  {
+    "id": 558,
+    "location": "l1558",
+    "name": "Portsmouth",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 50.8058333333333,
+    "longitude": -1.08722222222222
+  },
+  {
+    "id": 559,
+    "location": "l1559",
+    "name": "Portobello",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 9.55333055555555,
+    "longitude": -79.6558
+  },
+  {
+    "id": 560,
+    "location": "l1560",
+    "name": "Pouy",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 43.2613888888888,
+    "longitude": 0.556388888888888
+  },
+  {
+    "id": 561,
+    "location": "l1561",
+    "name": "Powerscourt",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.1688469444444,
+    "longitude": -6.27898388888888
+  },
+  {
+    "id": 562,
+    "location": "l1562",
+    "name": "Poyntzpass",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 54.2886944444444,
+    "longitude": -6.372
+  },
+  {
+    "id": 563,
+    "location": "l1563",
+    "name": "Prague",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 50.0833333333333,
+    "longitude": 14.4166666666666
+  },
+  {
+    "id": 564,
+    "location": "l1564",
+    "name": "Raghra",
+    "gaelic_name": "Reachra",
+    "place_type_id": 5,
+    "latitude": 53.2835138888888,
+    "longitude": -8.03749
+  },
+  {
+    "id": 565,
+    "location": "l1565",
+    "name": "Rainham",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.3594444444444,
+    "longitude": 0.608055555555555
+  },
+  {
+    "id": 566,
+    "location": "l1566",
+    "name": "Raleigh",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 50.6780555555555,
+    "longitude": -3.30166666666666
+  },
+  {
+    "id": 567,
+    "location": "l1567",
+    "name": "Ramilton",
+    "gaelic_name": "Ráth Mealtain",
+    "place_type_id": 4,
+    "latitude": 55.0509411111111,
+    "longitude": -8.23562611111111
+  },
+  {
+    "id": 568,
+    "location": "l1568",
+    "name": "Ramsfort",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.6809919444444,
+    "longitude": -6.26671194444444
+  },
+  {
+    "id": 569,
+    "location": "l1569",
+    "name": "Ranfurly",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 55.8488888888888,
+    "longitude": -4.585
+  },
+  {
+    "id": 570,
+    "location": "l1570",
+    "name": "Raphoe",
+    "gaelic_name": "Ráth Bhoth",
+    "place_type_id": 8,
+    "latitude": 54.8355988888888,
+    "longitude": -7.47791305555555
+  },
+  {
+    "id": 571,
+    "location": "l1571",
+    "name": "Rathmore",
+    "gaelic_name": "An Ráth Mhór",
+    "place_type_id": 5,
+    "latitude": 52.0838180555555,
+    "longitude": -9.26223305555555
+  },
+  {
+    "id": 572,
+    "location": "l1572",
+    "name": "Rathdrum",
+    "gaelic_name": "Ráth Droma",
+    "place_type_id": 5,
+    "latitude": 52.9368349999999,
+    "longitude": -6.23249194444444
+  },
+  {
+    "id": 573,
+    "location": "l1573",
+    "name": "Rathfarnham",
+    "gaelic_name": "Ráth Fearnáin",
+    "place_type_id": 4,
+    "latitude": 53.2987777777777,
+    "longitude": -6.28544722222222
+  },
+  {
+    "id": 574,
+    "location": "l1574",
+    "name": "Rathurde",
+    "gaelic_name": null,
+    "place_type_id": 13,
+    "latitude": 52.675,
+    "longitude": -8.57277777777777
+  },
+  {
+    "id": 575,
+    "location": "l1575",
+    "name": "Rattoo",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.4408688888888,
+    "longitude": -9.646155
+  },
+  {
+    "id": 576,
+    "location": "l1576",
+    "name": "Reading",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 51.4541666666666,
+    "longitude": -0.973055555555555
+  },
+  {
+    "id": 577,
+    "location": "l1577",
+    "name": "Renfrewshire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 55.85,
+    "longitude": -4.51666666666666
+  },
+  {
+    "id": 578,
+    "location": "l1578",
+    "name": "Rennes",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 48.1141666666666,
+    "longitude": -1.68083333333333
+  },
+  {
+    "id": 579,
+    "location": "l1579",
+    "name": "Richmond",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.456,
+    "longitude": -0.301
+  },
+  {
+    "id": 580,
+    "location": "l1580",
+    "name": "Ripley",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.2977777777777,
+    "longitude": -0.488055555555555
+  },
+  {
+    "id": 581,
+    "location": "l1581",
+    "name": "Rome",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 41.8930555555555,
+    "longitude": 12.4827777777777
+  },
+  {
+    "id": 582,
+    "location": "l1582",
+    "name": "Romford",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.5766666666666,
+    "longitude": 0.18
+  },
+  {
+    "id": 583,
+    "location": "l1583",
+    "name": "Roscommon",
+    "gaelic_name": "Ros Comáin",
+    "place_type_id": 4,
+    "latitude": 53.6333055555555,
+    "longitude": -8.18330555555555
+  },
+  {
+    "id": 584,
+    "location": "l1584",
+    "name": "Roscrea",
+    "gaelic_name": "Ros Cré",
+    "place_type_id": 4,
+    "latitude": 52.9546880555555,
+    "longitude": -7.79711694444444
+  },
+  {
+    "id": 585,
+    "location": "l1585",
+    "name": "Ross",
+    "gaelic_name": "An Ros",
+    "place_type_id": 5,
+    "latitude": 52.2735219444444,
+    "longitude": -7.50737194444444
+  },
+  {
+    "id": 586,
+    "location": "l1586",
+    "name": "Ross-shire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 57.8,
+    "longitude": -5.0
+  },
+  {
+    "id": 587,
+    "location": "l1587",
+    "name": "Rosserilly",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.4797222222222,
+    "longitude": -9.13138888888888
+  },
+  {
+    "id": 588,
+    "location": "l1588",
+    "name": "Rossmanagher",
+    "gaelic_name": "Ros mBeannchair",
+    "place_type_id": 5,
+    "latitude": 52.7109838888888,
+    "longitude": -8.79443111111111
+  },
+  {
+    "id": 589,
+    "location": "l1589",
+    "name": "Rostrevor",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 54.1,
+    "longitude": -6.2
+  },
+  {
+    "id": 590,
+    "location": "l1590",
+    "name": "Rotterdam",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 51.9225,
+    "longitude": 4.47916944444444
+  },
+  {
+    "id": 591,
+    "location": "l1591",
+    "name": "Rouen",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 49.4430555555555,
+    "longitude": 1.1025
+  },
+  {
+    "id": 592,
+    "location": "l1592",
+    "name": "Rowbarnes",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.2613888888888,
+    "longitude": -0.433611111111111
+  },
+  {
+    "id": 593,
+    "location": "l1593",
+    "name": "Rowton",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.1730555555555,
+    "longitude": -2.82999999999999
+  },
+  {
+    "id": 594,
+    "location": "l1594",
+    "name": "Ruscombe",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.48,
+    "longitude": -0.851944444444444
+  },
+  {
+    "id": 595,
+    "location": "l1595",
+    "name": "Rush",
+    "gaelic_name": "An Ros",
+    "place_type_id": 4,
+    "latitude": 53.5217880555555,
+    "longitude": -6.08908694444444
+  },
+  {
+    "id": 596,
+    "location": "l1596",
+    "name": "Saffron Walden",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 52.0261111111111,
+    "longitude": 0.245
+  },
+  {
+    "id": 597,
+    "location": "l1597",
+    "name": "Saint-Germain",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 48.2577777777777,
+    "longitude": 4.03194444444444
+  },
+  {
+    "id": 598,
+    "location": "l1598",
+    "name": "Saint-Lormel",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 48.5461111111111,
+    "longitude": -2.22944444444444
+  },
+  {
+    "id": 599,
+    "location": "l1599",
+    "name": "Salamanca",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 40.9666666666666,
+    "longitude": -5.66388888888889
+  },
+  {
+    "id": 600,
+    "location": "l1600",
+    "name": "Salford",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 53.4827777777777,
+    "longitude": -2.29305555555555
+  },
+  {
+    "id": 601,
+    "location": "l1601",
+    "name": "San Cristóbal de La Laguna",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 28.4799999999999,
+    "longitude": -16.32
+  },
+  {
+    "id": 602,
+    "location": "l1602",
+    "name": "San Pietro",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 41.8890694444444,
+    "longitude": 12.46685
+  },
+  {
+    "id": 603,
+    "location": "l1603",
+    "name": "Sandbach",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 53.1461111111111,
+    "longitude": -2.36694444444444
+  },
+  {
+    "id": 604,
+    "location": "l1604",
+    "name": "Sandridge",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.7808333333333,
+    "longitude": -0.303888888888888
+  },
+  {
+    "id": 605,
+    "location": "l1605",
+    "name": "Sarney",
+    "gaelic_name": "Searnaí",
+    "place_type_id": 5,
+    "latitude": 53.4239530555555,
+    "longitude": -6.50806888888888
+  },
+  {
+    "id": 606,
+    "location": "l1606",
+    "name": "Saumur",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 47.2591666666666,
+    "longitude": -0.0780555555555555
+  },
+  {
+    "id": 607,
+    "location": "l1607",
+    "name": "Scabblerston",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.1941711111111,
+    "longitude": -6.84449499999999
+  },
+  {
+    "id": 608,
+    "location": "l1608",
+    "name": "Schorndorf",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 48.8,
+    "longitude": 9.53333333333333
+  },
+  {
+    "id": 609,
+    "location": "l1609",
+    "name": "Sedan",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 49.7019444444444,
+    "longitude": 4.94027777777777
+  },
+  {
+    "id": 610,
+    "location": "l1610",
+    "name": "Segovia",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 40.95,
+    "longitude": -4.11666666666666
+  },
+  {
+    "id": 611,
+    "location": "l1611",
+    "name": "Seville",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 37.3833333333333,
+    "longitude": -5.98333333333333
+  },
+  {
+    "id": 612,
+    "location": "l1612",
+    "name": "Shottesbrooke",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.4861111111111,
+    "longitude": -0.788055555555555
+  },
+  {
+    "id": 613,
+    "location": "l1613",
+    "name": "Shronell",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.4642238888888,
+    "longitude": -8.24772499999999
+  },
+  {
+    "id": 614,
+    "location": "l1614",
+    "name": "Siddan",
+    "gaelic_name": "An Sián",
+    "place_type_id": 5,
+    "latitude": 53.8135169444444,
+    "longitude": -6.64988
+  },
+  {
+    "id": 615,
+    "location": "l1615",
+    "name": "Siena",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 43.3183333333333,
+    "longitude": 11.3313888888888
+  },
+  {
+    "id": 616,
+    "location": "l1616",
+    "name": "Simancas",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 41.5905555555555,
+    "longitude": -4.82694444444444
+  },
+  {
+    "id": 617,
+    "location": "l1617",
+    "name": "Skanderborg",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 56.0333333333333,
+    "longitude": 9.93333333333333
+  },
+  {
+    "id": 618,
+    "location": "l1618",
+    "name": "Skerries",
+    "gaelic_name": "Na Sceirí",
+    "place_type_id": 4,
+    "latitude": 53.5828055555555,
+    "longitude": -6.10830555555555
+  },
+  {
+    "id": 619,
+    "location": "l1619",
+    "name": "Sligo",
+    "gaelic_name": "Sligeach",
+    "place_type_id": 4,
+    "latitude": 54.2666944444444,
+    "longitude": -8.48330555555555
+  },
+  {
+    "id": 620,
+    "location": "l1620",
+    "name": "Smerwick",
+    "gaelic_name": "Ard na Caithne",
+    "place_type_id": 5,
+    "latitude": 52.1984619444444,
+    "longitude": -10.4168849999999
+  },
+  {
+    "id": 621,
+    "location": "l1621",
+    "name": "Somerset",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 51.3,
+    "longitude": -3.0
+  },
+  {
+    "id": 622,
+    "location": "l1622",
+    "name": "Sopwell",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.7383611111111,
+    "longitude": -0.333472222222222
+  },
+  {
+    "id": 623,
+    "location": "l1623",
+    "name": "Spain",
+    "gaelic_name": null,
+    "place_type_id": 11,
+    "latitude": 40.2,
+    "longitude": -3.5
+  },
+  {
+    "id": 624,
+    "location": "l1624",
+    "name": "Staffordshire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 52.8241709694444,
+    "longitude": -2.04361213055555
+  },
+  {
+    "id": 625,
+    "location": "l1625",
+    "name": "Stockholm",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 59.3294444444444,
+    "longitude": 18.0686111111111
+  },
+  {
+    "id": 626,
+    "location": "l1626",
+    "name": "Strabane",
+    "gaelic_name": "An Srath Bán",
+    "place_type_id": 4,
+    "latitude": 54.83,
+    "longitude": -7.47
+  },
+  {
+    "id": 627,
+    "location": "l1627",
+    "name": "Stradbally",
+    "gaelic_name": "An Sráidbhaile",
+    "place_type_id": 5,
+    "latitude": 53.0169444444444,
+    "longitude": -7.15305555555555
+  },
+  {
+    "id": 628,
+    "location": "l1628",
+    "name": "Strasbourg",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 48.5733333333333,
+    "longitude": 7.75222222222222
+  },
+  {
+    "id": 629,
+    "location": "l1629",
+    "name": "Strokestown",
+    "gaelic_name": "Béal na mBuillí",
+    "place_type_id": 4,
+    "latitude": 53.7833055555555,
+    "longitude": -8.01
+  },
+  {
+    "id": 630,
+    "location": "l1630",
+    "name": "Suffolk",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 52.1666666666666,
+    "longitude": 1.0
+  },
+  {
+    "id": 631,
+    "location": "l1631",
+    "name": "Surat",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 45.9375,
+    "longitude": 3.25444444444444
+  },
+  {
+    "id": 632,
+    "location": "l1632",
+    "name": "Surrey",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 51.25,
+    "longitude": -0.416666666666666
+  },
+  {
+    "id": 633,
+    "location": "l1633",
+    "name": "Sussex",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 50.9471026999999,
+    "longitude": -0.141372688888888
+  },
+  {
+    "id": 634,
+    "location": "l1634",
+    "name": "Swansea",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 51.6166666666666,
+    "longitude": -3.95
+  },
+  {
+    "id": 635,
+    "location": "l1635",
+    "name": "Swords",
+    "gaelic_name": "Sord",
+    "place_type_id": 4,
+    "latitude": 53.4596944444444,
+    "longitude": -6.21811111111111
+  },
+  {
+    "id": 636,
+    "location": "l1636",
+    "name": "Synone",
+    "gaelic_name": "Suí nEoin",
+    "place_type_id": 5,
+    "latitude": 52.575735,
+    "longitude": -7.87558111111111
+  },
+  {
+    "id": 637,
+    "location": "l1637",
+    "name": "Tarbert",
+    "gaelic_name": "Tairbeart",
+    "place_type_id": 4,
+    "latitude": 52.5723861111111,
+    "longitude": -9.37511388888888
+  },
+  {
+    "id": 638,
+    "location": "l1638",
+    "name": "Templecorran",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 54.7307438888888,
+    "longitude": -5.75491
+  },
+  {
+    "id": 639,
+    "location": "l1639",
+    "name": "Templeglentan",
+    "gaelic_name": "Teampall an Ghleanntáin ",
+    "place_type_id": 5,
+    "latitude": 52.37946,
+    "longitude": -9.2008
+  },
+  {
+    "id": 640,
+    "location": "l1640",
+    "name": "Templepatrick",
+    "gaelic_name": "Teampall Phádraig",
+    "place_type_id": 8,
+    "latitude": 54.6833055555555,
+    "longitude": -6.08330555555555
+  },
+  {
+    "id": 641,
+    "location": "l1641",
+    "name": "Tempo",
+    "gaelic_name": "An tIompú Deiseal",
+    "place_type_id": 8,
+    "latitude": 54.3775,
+    "longitude": -7.46088888888888
+  },
+  {
+    "id": 642,
+    "location": "l1642",
+    "name": "Termonfeckin",
+    "gaelic_name": "Tearmann Feichín",
+    "place_type_id": 4,
+    "latitude": 53.7666666666666,
+    "longitude": -6.26666666666666
+  },
+  {
+    "id": 643,
+    "location": "l1643",
+    "name": "Teruel",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 40.3436111111111,
+    "longitude": -1.10722222222222
+  },
+  {
+    "id": 644,
+    "location": "l1644",
+    "name": "The Hague",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 52.08,
+    "longitude": 4.31
+  },
+  {
+    "id": 645,
+    "location": "l1645",
+    "name": "Thomond",
+    "gaelic_name": "Tuadhmhumhain",
+    "place_type_id": 2,
+    "latitude": 52.6171111111111,
+    "longitude": -9.38119444444444
+  },
+  {
+    "id": 646,
+    "location": "l1646",
+    "name": "Thorganby",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.8694444444444,
+    "longitude": -0.950833333333333
+  },
+  {
+    "id": 647,
+    "location": "l1647",
+    "name": "Thornhill",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 53.3480555555555,
+    "longitude": -1.70388888888888
+  },
+  {
+    "id": 648,
+    "location": "l1648",
+    "name": "Thurles",
+    "gaelic_name": "Dúrlas Éile",
+    "place_type_id": 4,
+    "latitude": 52.67888,
+    "longitude": -7.81436888888888
+  },
+  {
+    "id": 649,
+    "location": "l1649",
+    "name": "Tichbourne",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.0,
+    "longitude": -1.65
+  },
+  {
+    "id": 650,
+    "location": "l1650",
+    "name": "Tintern",
+    "gaelic_name": "Tinteirn",
+    "place_type_id": 8,
+    "latitude": 52.2647111111111,
+    "longitude": -6.81156
+  },
+  {
+    "id": 651,
+    "location": "l1651",
+    "name": "Tipperary",
+    "gaelic_name": "Tiobraid Árann",
+    "place_type_id": 4,
+    "latitude": 52.4744161111111,
+    "longitude": -8.16198305555555
+  },
+  {
+    "id": 652,
+    "location": "l1652",
+    "name": "Tirhugh",
+    "gaelic_name": "Tír Aodha",
+    "place_type_id": 5,
+    "latitude": 54.9080499999999,
+    "longitude": -6.688025
+  },
+  {
+    "id": 653,
+    "location": "l1653",
+    "name": "Tisbury",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.0666666666666,
+    "longitude": -2.08027777777777
+  },
+  {
+    "id": 654,
+    "location": "l1654",
+    "name": "Togher",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.8857619444444,
+    "longitude": -7.01511805555555
+  },
+  {
+    "id": 655,
+    "location": "l1655",
+    "name": "Toledo",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 39.8666666666666,
+    "longitude": -4.03333333333333
+  },
+  {
+    "id": 656,
+    "location": "l1656",
+    "name": "Toomavara",
+    "gaelic_name": "Tuaim Uí Mheára",
+    "place_type_id": 4,
+    "latitude": 52.85,
+    "longitude": -8.03611111111111
+  },
+  {
+    "id": 657,
+    "location": "l1657",
+    "name": "Toonagh",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 52.9113888888888,
+    "longitude": -9.06638888888889
+  },
+  {
+    "id": 658,
+    "location": "l1658",
+    "name": "Torwood",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 56.0419444444444,
+    "longitude": -3.86194444444444
+  },
+  {
+    "id": 659,
+    "location": "l1659",
+    "name": "Tralee",
+    "gaelic_name": "Trá Lí",
+    "place_type_id": 4,
+    "latitude": 52.2675,
+    "longitude": -9.69619444444444
+  },
+  {
+    "id": 660,
+    "location": "l1660",
+    "name": "Treflan",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.7711111111111,
+    "longitude": -4.46194444444444
+  },
+  {
+    "id": 661,
+    "location": "l1661",
+    "name": "Trento",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 46.1,
+    "longitude": 11.1333333333333
+  },
+  {
+    "id": 662,
+    "location": "l1662",
+    "name": "Trim",
+    "gaelic_name": "Baile Átha Troim",
+    "place_type_id": 4,
+    "latitude": 53.5522411111111,
+    "longitude": -6.79341305555555
+  },
+  {
+    "id": 663,
+    "location": "l1663",
+    "name": "Troja",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 41.3666666666666,
+    "longitude": 15.3
+  },
+  {
+    "id": 664,
+    "location": "l1664",
+    "name": "Tuam",
+    "gaelic_name": "Tuaim",
+    "place_type_id": 4,
+    "latitude": 53.5166944444444,
+    "longitude": -8.85
+  },
+  {
+    "id": 665,
+    "location": "l1665",
+    "name": "Tully",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 50.0847222222222,
+    "longitude": 1.51611111111111
+  },
+  {
+    "id": 666,
+    "location": "l1666",
+    "name": "Tulsk",
+    "gaelic_name": "Tuilsce",
+    "place_type_id": 4,
+    "latitude": 53.7833055555555,
+    "longitude": -8.25
+  },
+  {
+    "id": 667,
+    "location": "l1667",
+    "name": "Tuogh",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.5753930555555,
+    "longitude": -8.83361805555555
+  },
+  {
+    "id": 668,
+    "location": "l1668",
+    "name": "Turnings",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.2892669444444,
+    "longitude": -6.63653194444444
+  },
+  {
+    "id": 669,
+    "location": "l1669",
+    "name": "Turvey",
+    "gaelic_name": "Tuirbhe",
+    "place_type_id": 5,
+    "latitude": 53.49688,
+    "longitude": -6.18997
+  },
+  {
+    "id": 670,
+    "location": "l1670",
+    "name": "Tyburn",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 52.5226944444444,
+    "longitude": -1.81
+  },
+  {
+    "id": 671,
+    "location": "l1671",
+    "name": "Tynagh",
+    "gaelic_name": "Tíne",
+    "place_type_id": 4,
+    "latitude": 53.1699999999999,
+    "longitude": -8.37
+  },
+  {
+    "id": 672,
+    "location": "l1672",
+    "name": "Tyrone",
+    "gaelic_name": "Tír Eoghain",
+    "place_type_id": 2,
+    "latitude": 54.61,
+    "longitude": -7.16
+  },
+  {
+    "id": 673,
+    "location": "l1673",
+    "name": "Ulcombe",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.2171111111111,
+    "longitude": 0.642611111111111
+  },
+  {
+    "id": 674,
+    "location": "l1674",
+    "name": "Uppsala",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 59.8497611111111,
+    "longitude": 17.6389469444444
+  },
+  {
+    "id": 675,
+    "location": "l1675",
+    "name": "Urlan More",
+    "gaelic_name": "Urlann Mhòr",
+    "place_type_id": 5,
+    "latitude": 52.7447730555555,
+    "longitude": -8.91946305555555
+  },
+  {
+    "id": 676,
+    "location": "l1676",
+    "name": "Urr",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 54.9864119444444,
+    "longitude": -3.83153805555555
+  },
+  {
+    "id": 677,
+    "location": "l1677",
+    "name": "Utrecht",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 52.0888888888888,
+    "longitude": 5.11555555555555
+  },
+  {
+    "id": 678,
+    "location": "l1678",
+    "name": "Valladolid",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 41.5833333333333,
+    "longitude": -4.66666666666666
+  },
+  {
+    "id": 679,
+    "location": "l1679",
+    "name": "Venice",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 45.4397222222222,
+    "longitude": 12.3319444444444
+  },
+  {
+    "id": 680,
+    "location": "l1680",
+    "name": "Versailles",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 48.8047222222222,
+    "longitude": 2.13416666666666
+  },
+  {
+    "id": 681,
+    "location": "l1681",
+    "name": "Vevey",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 46.4666666666666,
+    "longitude": 6.85
+  },
+  {
+    "id": 682,
+    "location": "l1682",
+    "name": "Vienna",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 48.20833,
+    "longitude": 16.3730638888888
+  },
+  {
+    "id": 683,
+    "location": "l1683",
+    "name": "Villaviciosa",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 40.5367309999999,
+    "longitude": -4.89900699999999
+  },
+  {
+    "id": 684,
+    "location": "l1684",
+    "name": "Vincennes",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 48.8477777777777,
+    "longitude": 2.43916666666666
+  },
+  {
+    "id": 685,
+    "location": "l1685",
+    "name": "Wales",
+    "gaelic_name": null,
+    "place_type_id": 11,
+    "latitude": 51.8249166666666,
+    "longitude": -2.64988888888888
+  },
+  {
+    "id": 686,
+    "location": "l1686",
+    "name": "Wandsworth",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.4571111111111,
+    "longitude": -0.190305555555555
+  },
+  {
+    "id": 687,
+    "location": "l1687",
+    "name": "Wardenstown",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.5117680555555,
+    "longitude": -7.10226305555555
+  },
+  {
+    "id": 688,
+    "location": "l1688",
+    "name": "Warwick",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 52.28,
+    "longitude": -1.59
+  },
+  {
+    "id": 689,
+    "location": "l1689",
+    "name": "Warwickshire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 52.3333333333333,
+    "longitude": -1.58333333333333
+  },
+  {
+    "id": 690,
+    "location": "l1690",
+    "name": "Waterford",
+    "gaelic_name": "Port Láirge",
+    "place_type_id": 3,
+    "latitude": 52.2583055555555,
+    "longitude": -7.119
+  },
+  {
+    "id": 691,
+    "location": "l1691",
+    "name": "Welbeck",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 53.2611111111111,
+    "longitude": -1.16805555555555
+  },
+  {
+    "id": 692,
+    "location": "l1692",
+    "name": "Westmeath",
+    "gaelic_name": "Iarmhí",
+    "place_type_id": 2,
+    "latitude": 53.5,
+    "longitude": -7.5
+  },
+  {
+    "id": 693,
+    "location": "l1693",
+    "name": "Westminster",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 51.4975,
+    "longitude": -0.137222222222222
+  },
+  {
+    "id": 694,
+    "location": "l1694",
+    "name": "Wexford",
+    "gaelic_name": "Loch Garman",
+    "place_type_id": 4,
+    "latitude": 52.3341944444444,
+    "longitude": -6.4575
+  },
+  {
+    "id": 695,
+    "location": "l1695",
+    "name": "Wicklow",
+    "gaelic_name": "Cill Mhantáin",
+    "place_type_id": 4,
+    "latitude": 52.9778888888888,
+    "longitude": -6.033
+  },
+  {
+    "id": 696,
+    "location": "l1696",
+    "name": "Wiltshire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 51.3333333333333,
+    "longitude": -1.91666666666666
+  },
+  {
+    "id": 697,
+    "location": "l1697",
+    "name": "Windsor",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.4833333333333,
+    "longitude": -0.6
+  },
+  {
+    "id": 698,
+    "location": "l1698",
+    "name": "Wisbech",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 52.6641666666666,
+    "longitude": 0.160277777777777
+  },
+  {
+    "id": 699,
+    "location": "l1699",
+    "name": "Woodchurch",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.0738888888888,
+    "longitude": 0.7775
+  },
+  {
+    "id": 700,
+    "location": "l1700",
+    "name": "Woodlands",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 50.8811111111111,
+    "longitude": -1.92805555555555
+  },
+  {
+    "id": 701,
+    "location": "l1701",
+    "name": "Woolton",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 51.3541944444444,
+    "longitude": -1.38261111111111
+  },
+  {
+    "id": 702,
+    "location": "l1702",
+    "name": "Wrexham",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 53.0463888888888,
+    "longitude": -2.99333333333333
+  },
+  {
+    "id": 703,
+    "location": "l1703",
+    "name": "Wrington",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.3616666666666,
+    "longitude": -2.76055555555555
+  },
+  {
+    "id": 704,
+    "location": "l1704",
+    "name": "York",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 53.95,
+    "longitude": -1.08333333333333
+  },
+  {
+    "id": 705,
+    "location": "l1705",
+    "name": "Yorkshire",
+    "gaelic_name": null,
+    "place_type_id": 2,
+    "latitude": 53.9583333333333,
+    "longitude": -1.08333333333333
+  },
+  {
+    "id": 706,
+    "location": "l1706",
+    "name": "Youghal",
+    "gaelic_name": "Eochaill",
+    "place_type_id": 4,
+    "latitude": 51.9516711111111,
+    "longitude": -7.84561194444444
+  },
+  {
+    "id": 707,
+    "location": "l1707",
+    "name": "Ypres",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 50.85,
+    "longitude": 2.88333333333333
+  },
+  {
+    "id": 708,
+    "location": "l1708",
+    "name": "Yuste",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 40.1141666666666,
+    "longitude": -5.73888888888888
+  },
+  {
+    "id": 709,
+    "location": "l1709",
+    "name": "Zutphen",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 52.14,
+    "longitude": 6.195
+  },
+  {
+    "id": 710,
+    "location": "l1710",
+    "name": "Leiden",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 52.1544444444444,
+    "longitude": 4.49472222222222
+  },
+  {
+    "id": 711,
+    "location": "l1711",
+    "name": "Scotland",
+    "gaelic_name": null,
+    "place_type_id": 11,
+    "latitude": 57.0,
+    "longitude": -5.0
+  },
+  {
+    "id": 712,
+    "location": "l1712",
+    "name": "France",
+    "gaelic_name": null,
+    "place_type_id": 11,
+    "latitude": 47.0,
+    "longitude": 2.0
+  },
+  {
+    "id": 713,
+    "location": "l1713",
+    "name": "Switzerland",
+    "gaelic_name": null,
+    "place_type_id": 11,
+    "latitude": 46.7985619444444,
+    "longitude": 8.23197305555555
+  },
+  {
+    "id": 714,
+    "location": "l1714",
+    "name": "Germany",
+    "gaelic_name": null,
+    "place_type_id": 11,
+    "latitude": 51.0,
+    "longitude": 10.0
+  },
+  {
+    "id": 715,
+    "location": "l1715",
+    "name": "Belgium",
+    "gaelic_name": null,
+    "place_type_id": 11,
+    "latitude": 50.6411111111111,
+    "longitude": 4.66805555555555
+  },
+  {
+    "id": 716,
+    "location": "l1716",
+    "name": "Aghnameadle",
+    "gaelic_name": "Ã th na Méadal",
+    "place_type_id": 5,
+    "latitude": 52.8467638888888,
+    "longitude": -7.97551111111111
+  },
+  {
+    "id": 717,
+    "location": "l1717",
+    "name": "Ballymacegan",
+    "gaelic_name": "Baile Mhic Aogáin",
+    "place_type_id": 5,
+    "latitude": 53.1294869444444,
+    "longitude": -8.13916
+  },
+  {
+    "id": 718,
+    "location": "l1718",
+    "name": "Ballycummin",
+    "gaelic_name": "Baile Choimín",
+    "place_type_id": 5,
+    "latitude": 52.6207411111111,
+    "longitude": -8.66246
+  },
+  {
+    "id": 719,
+    "location": "l1719",
+    "name": "Milltown Malby",
+    "gaelic_name": "Sráid na Cathrach",
+    "place_type_id": 4,
+    "latitude": 52.85,
+    "longitude": -9.4
+  },
+  {
+    "id": 720,
+    "location": "l1720",
+    "name": "Tullaha",
+    "gaelic_name": "Na Tulacha",
+    "place_type_id": 5,
+    "latitude": 52.0269261111111,
+    "longitude": -9.429715
+  },
+  {
+    "id": 721,
+    "location": "l1721",
+    "name": "Kilcrohane",
+    "gaelic_name": "Cill Chrócháin",
+    "place_type_id": 5,
+    "latitude": 51.5763588888888,
+    "longitude": -9.70379388888888
+  },
+  {
+    "id": 722,
+    "location": "l1722",
+    "name": "Bantry",
+    "gaelic_name": "Beanntraí",
+    "place_type_id": 4,
+    "latitude": 51.6797938888888,
+    "longitude": -9.45322
+  },
+  {
+    "id": 723,
+    "location": "l1723",
+    "name": "Stradbally",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 53.0,
+    "longitude": -7.0
+  },
+  {
+    "id": 724,
+    "location": "l1724",
+    "name": "Munster",
+    "gaelic_name": "Cúige Mumhan",
+    "place_type_id": 1,
+    "latitude": 52.3433333333333,
+    "longitude": -8.71666666666666
+  },
+  {
+    "id": 725,
+    "location": "l1725",
+    "name": "Leinster",
+    "gaelic_name": "Cúige Laighean",
+    "place_type_id": 1,
+    "latitude": 53.1666666666666,
+    "longitude": -7.02111111111111
+  },
+  {
+    "id": 726,
+    "location": "l1726",
+    "name": "Connacht",
+    "gaelic_name": "Cúige Chonnacht",
+    "place_type_id": 1,
+    "latitude": 53.87,
+    "longitude": -8.63333333333333
+  },
+  {
+    "id": 727,
+    "location": "l1727",
+    "name": "Ulster",
+    "gaelic_name": "Cúige Uladh",
+    "place_type_id": 1,
+    "latitude": 54.9272222222222,
+    "longitude": -7.93944444444444
+  },
+  {
+    "id": 728,
+    "location": "l1728",
+    "name": "England",
+    "gaelic_name": null,
+    "place_type_id": 11,
+    "latitude": 53.0,
+    "longitude": -1.0
+  },
+  {
+    "id": 729,
+    "location": "l1729",
+    "name": "Italy",
+    "gaelic_name": null,
+    "place_type_id": 11,
+    "latitude": 42.5,
+    "longitude": 12.5
+  },
+  {
+    "id": 730,
+    "location": "l1730",
+    "name": "Netherlands",
+    "gaelic_name": null,
+    "place_type_id": 11,
+    "latitude": 52.3166666666666,
+    "longitude": 5.55
+  },
+  {
+    "id": 731,
+    "location": "l1731",
+    "name": "Flushing",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.45,
+    "longitude": 3.583333
+  },
+  {
+    "id": 732,
+    "location": "l1732",
+    "name": "Thatcham",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 51.405,
+    "longitude": -1.264444
+  },
+  {
+    "id": 733,
+    "location": "l1733",
+    "name": "Sorn",
+    "gaelic_name": null,
+    "place_type_id": 8,
+    "latitude": 55.509806,
+    "longitude": -4.29
+  },
+  {
+    "id": 734,
+    "location": "l1734",
+    "name": "Kinalegh",
+    "gaelic_name": null,
+    "place_type_id": 12,
+    "latitude": 52.99089,
+    "longitude": -8.045522
+  },
+  {
+    "id": 735,
+    "location": "l1735",
+    "name": "Killincara",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.131231,
+    "longitude": -6.076809
+  },
+  {
+    "id": 736,
+    "location": "l1736",
+    "name": "Mohar",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 52.698515,
+    "longitude": -7.982371
+  },
+  {
+    "id": 737,
+    "location": "l1737",
+    "name": "Bresnycke",
+    "gaelic_name": "An Bhréinseach",
+    "place_type_id": 5,
+    "latitude": 52.161605,
+    "longitude": -9.556282
+  },
+  {
+    "id": 738,
+    "location": "l1738",
+    "name": "Listowel",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 52.446594,
+    "longitude": -9.486179
+  },
+  {
+    "id": 739,
+    "location": "l1739",
+    "name": "Southampton",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 50.9069389,
+    "longitude": -1.4047194
+  },
+  {
+    "id": 740,
+    "location": "l1740",
+    "name": "Geneva",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 46.2,
+    "longitude": 6.15
+  },
+  {
+    "id": 741,
+    "location": "l1741",
+    "name": "Mainz",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 50.0,
+    "longitude": 8.266667
+  },
+  {
+    "id": 742,
+    "location": "l1742",
+    "name": "Heidelberg",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 49.412222,
+    "longitude": 8.71
+  },
+  {
+    "id": 743,
+    "location": "l1743",
+    "name": "Douai",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 50.370833,
+    "longitude": 3.079167
+  },
+  {
+    "id": 744,
+    "location": "l1744",
+    "name": "Frankfurt",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 52.342083,
+    "longitude": 14.551667
+  },
+  {
+    "id": 745,
+    "location": "l1745",
+    "name": "Middleberg",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 51.499722,
+    "longitude": 3.613611
+  },
+  {
+    "id": 746,
+    "location": "l1746",
+    "name": "Malaga",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 36.716667,
+    "longitude": -4.416667
+  },
+  {
+    "id": 747,
+    "location": "l1747",
+    "name": "Clonarde",
+    "gaelic_name": "Cluain Ioraird",
+    "place_type_id": 4,
+    "latitude": 53.4598,
+    "longitude": -7.01029
+  },
+  {
+    "id": 748,
+    "location": "l1748",
+    "name": "Somerset",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 51.3,
+    "longitude": -3.0
+  },
+  {
+    "id": 749,
+    "location": "l1749",
+    "name": "Kirby Wiske",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 54.2579,
+    "longitude": -1.4243
+  },
+  {
+    "id": 750,
+    "location": "l1750",
+    "name": "Ruthin",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 53.114444,
+    "longitude": -3.310556
+  },
+  {
+    "id": 751,
+    "location": "l1751",
+    "name": "Oswestry",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 52.8598,
+    "longitude": -3.0538
+  },
+  {
+    "id": 752,
+    "location": "l1752",
+    "name": "Penmachno",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 53.0333,
+    "longitude": -3.8
+  },
+  {
+    "id": 753,
+    "location": "l1753",
+    "name": "Lanark",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 55.6749,
+    "longitude": -3.77702
+  },
+  {
+    "id": 754,
+    "location": "l1754",
+    "name": "Plymouth",
+    "gaelic_name": null,
+    "place_type_id": 3,
+    "latitude": 50.371389,
+    "longitude": -4.142222
+  },
+  {
+    "id": 755,
+    "location": "l1755",
+    "name": "Tordesillas",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 41.500864,
+    "longitude": -5.000484
+  },
+  {
+    "id": 756,
+    "location": "l1756",
+    "name": "Moyglare",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 53.4068,
+    "longitude": -6.6022
+  },
+  {
+    "id": 757,
+    "location": "l1757",
+    "name": "Aghadowey",
+    "gaelic_name": null,
+    "place_type_id": 5,
+    "latitude": 54.5863,
+    "longitude": -8.05156
+  },
+  {
+    "id": 758,
+    "location": "l1758",
+    "name": "Carlingford",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 54.04294,
+    "longitude": -6.18609
+  },
+  {
+    "id": 759,
+    "location": "l1759",
+    "name": "Ostia",
+    "gaelic_name": null,
+    "place_type_id": 4,
+    "latitude": 41.755833,
+    "longitude": 12.291667
+  },
+  {
+    "id": 760,
+    "location": "l1760",
+    "name": "Glanmire",
+    "gaelic_name": "Gleann Maghair",
+    "place_type_id": 4,
+    "latitude": 51.9176,
+    "longitude": -8.39246
+  }
+]
